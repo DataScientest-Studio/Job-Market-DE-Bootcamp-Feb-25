@@ -19,7 +19,7 @@ BASE_URL = "http://api.adzuna.com/v1/api/jobs/de/search/"
 
 # Configuration
 RESULTS_PER_PAGE = 10  # Number of results per API call
-MAX_PAGES = 2  # Limit the number of pages to prevent too many requests
+MAX_PAGES = 12295  # Limit the number of pages to prevent too many requests
 CATEGORY_TAG = "it-jobs"  # Adzuna category tag for IT Jobs
 
 def fetch_jobs_by_category(category_tag):
@@ -45,7 +45,7 @@ def fetch_jobs_by_category(category_tag):
             else:
                 break  # Stop if no more results
         else:
-            print(f"⚠ Error fetching data for category {category_tag} on page {page}")
+            print(f"Error fetching data for category {category_tag} on page {page}")
             break
         
         time.sleep(1)  # Add a delay to avoid being blocked
