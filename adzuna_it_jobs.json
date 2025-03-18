@@ -1,0 +1,228 @@
+{
+    "category": "IT Jobs",
+    "total_jobs": 20,
+    "job_titles": [
+        ".NET Application Architect (m/w/d)",
+        ".NET Software Engineer - Video Technology - Berlin",
+        "Ausbildungsintegriertes Duales Studium Wirtschaftsinformatik (B.Sc.) (w/m/d)",
+        "Backend Developer PHP (m/w/d) Remote bis 60.000\u20ac",
+        "Cloud Consultant - Unrivalled Benefits Package (All Genders)",
+        "Eink\u00e4ufer (m/w/d)",
+        "Elektriker (m/w/d)",
+        "Fachkraft f\u00fcr Lagerlogistik (m/w/d) in Arnsberg",
+        "Hybris Developer - Flexible Working Hours (All Genders)",
+        "IT Consultant Energy (m/w/d)",
+        "Konstruktionsmechaniker (m/w/d)",
+        "P\u00e4dagogische Fachkraft (m/w/d)",
+        "SAP BO - Flexible Working Hours (All Genders)",
+        "SAP MM Logistik Berater (m/w/d)",
+        "SAP MM/ABAP Inhouse Berater (m/w/d)",
+        "SAP S/4HANA Project Manager - No Travel (All Genders)",
+        "SAP SAP SEM-BCS / Group Reporting (Lead) Consultant - Remote / Low Travel (All Genders)",
+        "SAP TM Architekt (m/w/d)",
+        "Trainee IT Project Manager (Career Accelerator with Employment Guarantee)",
+        "Zoll- und Exportkontrollspezialist (m/w/d)"
+    ],
+    "job_listings": [
+        {
+            "title": "Fachkraft f\u00fcr Lagerlogistik (m/w/d) in Arnsberg",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Arnsberg",
+            "category": "IT-Stellen",
+            "location": "Soest, Soest (Kreis)",
+            "created": "2025-03-12T06:36:28Z",
+            "salary_min": 16,
+            "salary_max": 18,
+            "contract_type": "N/A"
+        },
+        {
+            "title": "SAP MM Logistik Berater (m/w/d)",
+            "company": "SThree",
+            "category": "IT-Stellen",
+            "location": "K\u00f6ln, Nordrhein-Westfalen",
+            "created": "2025-02-26T14:24:50Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "contract"
+        },
+        {
+            "title": "SAP MM/ABAP Inhouse Berater (m/w/d)",
+            "company": "Peak One GmbH",
+            "category": "IT-Stellen",
+            "location": "Bad Oldesloe, Stormarn (Kreis)",
+            "created": "2025-03-05T14:25:39Z",
+            "salary_min": 70000,
+            "salary_max": 90000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "SAP BO - Flexible Working Hours (All Genders)",
+            "company": "The Recruitment 2.0 Group",
+            "category": "IT-Stellen",
+            "location": "Hamburg-Altstadt, Hamburg",
+            "created": "2024-10-16T01:25:08Z",
+            "salary_min": 60000,
+            "salary_max": 120000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Backend Developer PHP (m/w/d) Remote bis 60.000\u20ac",
+            "company": "Computer Futures",
+            "category": "IT-Stellen",
+            "location": "Arheilgen, Darmstadt",
+            "created": "2025-03-01T14:24:30Z",
+            "salary_min": 55000,
+            "salary_max": 60000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Trainee IT Project Manager (Career Accelerator with Employment Guarantee)",
+            "company": "Nuyew Tech Academy",
+            "category": "IT-Stellen",
+            "location": "Wedding, Berlin",
+            "created": "2025-01-14T22:21:14Z",
+            "salary_min": 36000,
+            "salary_max": 36000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Eink\u00e4ufer (m/w/d)",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Jena",
+            "category": "IT-Stellen",
+            "location": "Neustadt an der Orla, Saale-Orla-Kreis",
+            "created": "2025-02-18T05:47:25Z",
+            "salary_min": 45000,
+            "salary_max": 50000,
+            "contract_type": "N/A"
+        },
+        {
+            "title": ".NET Software Engineer - Video Technology - Berlin",
+            "company": "Noir",
+            "category": "IT-Stellen",
+            "location": "Berlin, Deutschland",
+            "created": "2025-03-17T14:48:40Z",
+            "salary_min": 60000,
+            "salary_max": 80000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": ".NET Application Architect (m/w/d)",
+            "company": "Computer Futures",
+            "category": "IT-Stellen",
+            "location": "Hausen, Frankfurt am Main",
+            "created": "2025-02-27T14:22:48Z",
+            "salary_min": 80000,
+            "salary_max": 100000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Hybris Developer - Flexible Working Hours (All Genders)",
+            "company": "The Recruitment 2.0 Group",
+            "category": "IT-Stellen",
+            "location": "Altstadt-Nord, K\u00f6ln",
+            "created": "2024-07-17T22:42:07Z",
+            "salary_min": 60000,
+            "salary_max": 120000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "SAP TM Architekt (m/w/d)",
+            "company": "SThree",
+            "category": "IT-Stellen",
+            "location": "Stuttgart, Baden-W\u00fcrttemberg",
+            "created": "2025-02-20T14:20:43Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "contract"
+        },
+        {
+            "title": "IT Consultant Energy (m/w/d)",
+            "company": "Sopra Steria",
+            "category": "IT-Stellen",
+            "location": "Deutschland",
+            "created": "2025-02-21T05:52:00Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Konstruktionsmechaniker (m/w/d)",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Meppen",
+            "category": "IT-Stellen",
+            "location": "Haren (Ems), Emsland (Kreis)",
+            "created": "2025-02-18T05:47:24Z",
+            "salary_min": 18,
+            "salary_max": 20,
+            "contract_type": "N/A"
+        },
+        {
+            "title": "P\u00e4dagogische Fachkraft (m/w/d)",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Osnabr\u00fcck",
+            "category": "IT-Stellen",
+            "location": "Gartlage, Osnabr\u00fcck",
+            "created": "2025-02-26T06:02:59Z",
+            "salary_min": 24,
+            "salary_max": 26,
+            "contract_type": "N/A"
+        },
+        {
+            "title": "SAP SAP SEM-BCS / Group Reporting (Lead) Consultant - Remote / Low Travel (All Genders)",
+            "company": "The Recruitment 2.0 Group",
+            "category": "IT-Stellen",
+            "location": "Malstatt, Saarbr\u00fccken",
+            "created": "2024-10-24T19:39:47Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Cloud Consultant - Unrivalled Benefits Package (All Genders)",
+            "company": "The Recruitment 2.0 Group",
+            "category": "IT-Stellen",
+            "location": "Altstadt-Lehel, M\u00fcnchen",
+            "created": "2024-12-20T14:14:48Z",
+            "salary_min": 120000,
+            "salary_max": 600000,
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Ausbildungsintegriertes Duales Studium Wirtschaftsinformatik (B.Sc.) (w/m/d)",
+            "company": "Deutsche Glasfaser",
+            "category": "IT-Stellen",
+            "location": "Saarlouis, Saarlouis (Kreis)",
+            "created": "2025-03-12T00:25:12Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Zoll- und Exportkontrollspezialist (m/w/d)",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Krefeld",
+            "category": "IT-Stellen",
+            "location": "Bockum, Krefeld",
+            "created": "2025-03-13T06:44:58Z",
+            "salary_min": 42000,
+            "salary_max": 48000,
+            "contract_type": "N/A"
+        },
+        {
+            "title": "SAP S/4HANA Project Manager - No Travel (All Genders)",
+            "company": "The Recruitment 2.0 Group",
+            "category": "IT-Stellen",
+            "location": "Malstatt, Saarbr\u00fccken",
+            "created": "2024-12-26T18:01:20Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Elektriker (m/w/d)",
+            "company": "persona service AG & Co. KG \u2022 Niederlassung: Kaiserslautern",
+            "category": "IT-Stellen",
+            "location": "Sembach, Kaiserslautern (Kreis)",
+            "created": "2025-02-18T05:47:23Z",
+            "salary_min": 20,
+            "salary_max": 22,
+            "contract_type": "N/A"
+        }
+    ]
+}
