@@ -1,0 +1,856 @@
+{
+    "category": "IT Jobs",
+    "date": "2025-03-23",
+    "total_jobs": 82,
+    "job_titles": [
+        "(Senior) Data Engineer (m/w/d)",
+        "(Senior) Product Marketing Manager (f/m/d) - Berlin/Remote Germany",
+        "Betriebsst\u00e4ttenleitung Technik (m/w/d)",
+        "Bildbearbeiter (m/w/d)",
+        "Development Engineer (w/m/d) Software und Netzwerktechnik",
+        "Elektroniker als Servicetechniker im Au\u00dfendienst | Gro\u00dfk\u00fcchen mit Servicefahrzeug m/w/d",
+        "Elektroniker:in Betriebstechnik als Netzmonteur:in",
+        "Embedded Software Engineer (m/w/d) in Dresden",
+        "HR IT Specialist (m/w/d) Deutschland | Unbefristeter Arbeitsvertrag | Vollzeit | O_OSG_12107",
+        "IT-Administrator (m/w/d) Microsoft 365/Cloud",
+        "IT-System-Kaufmann /-frau - IT-Systemhaus (m/w/d)",
+        "IT-Systemadministrator (m/w/d)",
+        "It Expert Military It - F\u00fchrungsinformationssysteme (m/w/d)",
+        "Lead Consultant Full Stack Engineering (w/m/x) in Hamburg",
+        "Lead Ingenieur MSR (m/w/d)",
+        "Lizenzoptimierungsspezialist (m/w/d) \u2013 Strategisches Management von Softwarelizenzen",
+        "Mechatroniker / Elektroniker / Elektriker (m/w/d) Berufseinsteiger willkommen",
+        "Mechatroniker K\u00e4ltetechnik / K\u00e4lteanlagenbauer (m/w/d)",
+        "Mid-level Kotlin engineer (m/f/d) - Team Network Services",
+        "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+        "Quereinsteiger als Softwareentwickler mit Fokus auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+        "Quereinsteiger in der Automatisierungstechnik (m/w/d)",
+        "SAP AMS Service Delivery Manager (w/m/x) in Berlin",
+        "Senior Software Ingenieur QT / C++ (m/w/d)",
+        "Senior Software Test Specialist",
+        "Software Engineer - Confidential Computing and AI",
+        "Systemadministratorin Stromnetze"
+    ],
+    "job_listings": [
+        {
+            "title": "Systemadministratorin Stromnetze",
+            "company": "GELSENWASSER Energienetze GmbH",
+            "category": "IT-Stellen",
+            "location": "Gelsenkirchen, Nordrhein-Westfalen",
+            "created": "2025-03-23T12:03:03Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "(Senior) Data Engineer (m/w/d)",
+            "company": "NVL B.V. & Co. KG'",
+            "category": "IT-Stellen",
+            "location": "Hamburg, Deutschland",
+            "created": "2025-03-23T02:48:33Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Elektroniker als Servicetechniker im Au\u00dfendienst | Gro\u00dfk\u00fcchen mit Servicefahrzeug m/w/d",
+            "company": "SPIE Deutschland & Zentraleuropa GmbH",
+            "category": "IT-Stellen",
+            "location": "Altstadt-Lehel, M\u00fcnchen",
+            "created": "2025-03-23T16:46:36Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "IT-Systemadministrator (m/w/d)",
+            "company": "Memminger-IRO GmbH",
+            "category": "IT-Stellen",
+            "location": "Dornstetten, Freudenstadt (Kreis)",
+            "created": "2025-03-23T01:24:54Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "IT-Administrator (m/w/d) Microsoft 365/Cloud",
+            "company": "PM-International AG",
+            "category": "IT-Stellen",
+            "location": "Speyer, Speyer (Kreis)",
+            "created": "2025-03-23T02:48:35Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Mechatroniker K\u00e4ltetechnik / K\u00e4lteanlagenbauer (m/w/d)",
+            "company": "Leadec Management Central Europe BV & Co. KG",
+            "category": "IT-Stellen",
+            "location": "Dingolfing, Dingolfing-Landau (Kreis)",
+            "created": "2025-03-23T15:20:29Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Elektroniker:in Betriebstechnik als Netzmonteur:in",
+            "company": "enercity Netz GmbH",
+            "category": "IT-Stellen",
+            "location": "Hannover, Region Hannover (Kreis)",
+            "created": "2025-03-23T02:48:33Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Betriebsst\u00e4ttenleitung Technik (m/w/d)",
+            "company": "Lebenshilfe Heinsberg e.V.",
+            "category": "IT-Stellen",
+            "location": "Heinsberg, Heinsberg (Kreis)",
+            "created": "2025-03-23T02:48:35Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger in der Automatisierungstechnik (m/w/d)",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Hervest, Dorsten",
+            "created": "2025-03-23T19:16:07Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Senior Software Test Specialist",
+            "company": "Secusmart",
+            "category": "IT-Stellen",
+            "location": "D\u00fcsseldorf, Nordrhein-Westfalen",
+            "created": "2025-03-23T12:05:00Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Lead Consultant Full Stack Engineering (w/m/x) in Hamburg",
+            "company": "NTT DATA Deutschland SE von Jobs-Daheim.de",
+            "category": "IT-Stellen",
+            "location": "Hamburg, Deutschland",
+            "created": "2025-03-23T20:44:23Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger in der Automatisierungstechnik (m/w/d)",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Riensberg, Bremen",
+            "created": "2025-03-23T19:16:07Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Senior Software Ingenieur QT / C++ (m/w/d)",
+            "company": "BEBIG Medical",
+            "category": "IT-Stellen",
+            "location": "Buch, Berlin",
+            "created": "2025-03-23T12:02:50Z",
+            "salary_min": 65000,
+            "salary_max": 80000,
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Bildbearbeiter (m/w/d)",
+            "company": "ORENDT STUDIOS Gruppe",
+            "category": "IT-Stellen",
+            "location": "Berlin, Deutschland",
+            "created": "2025-03-23T12:02:40Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "HR IT Specialist (m/w/d) Deutschland | Unbefristeter Arbeitsvertrag | Vollzeit | O_OSG_12107",
+            "company": "VED Industry & Infrastructure",
+            "category": "IT-Stellen",
+            "location": "Deutschland",
+            "created": "2025-03-23T11:44:57Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Development Engineer (w/m/d) Software und Netzwerktechnik",
+            "company": "MBDA",
+            "category": "IT-Stellen",
+            "location": "Schrobenhausen, Neuburg-Schrobenhausen (Kreis)",
+            "created": "2025-03-23T12:21:27Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Wieseck, Gie\u00dfen",
+            "created": "2025-03-23T19:16:07Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als Softwareentwickler mit Fokus auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Eicken, M\u00f6nchengladbach",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "It Expert Military It - F\u00fchrungsinformationssysteme (m/w/d)",
+            "company": "BWI GmbH",
+            "category": "IT-Stellen",
+            "location": "Deutschland",
+            "created": "2025-03-23T20:03:11Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger in der Automatisierungstechnik (m/w/d)",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "R\u00fcttenscheid, Essen",
+            "created": "2025-03-23T19:16:04Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Software Engineer - Confidential Computing and AI",
+            "company": "Edgeless Systems",
+            "category": "IT-Stellen",
+            "location": "Altenbochum, Bochum",
+            "created": "2025-03-23T12:13:45Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Embedded Software Engineer (m/w/d) in Dresden",
+            "company": "eClever Systems",
+            "category": "IT-Stellen",
+            "location": "Friedrichstadt, Dresden",
+            "created": "2025-03-23T11:47:41Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "(Senior) Product Marketing Manager (f/m/d) - Berlin/Remote Germany",
+            "company": "Hygraph",
+            "category": "IT-Stellen",
+            "location": "Mitte, Berlin",
+            "created": "2025-03-23T16:53:49Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "SAP AMS Service Delivery Manager (w/m/x) in Berlin",
+            "company": "NTT DATA Deutschland SE von Jobs-Daheim.de",
+            "category": "IT-Stellen",
+            "location": "Berlin, Deutschland",
+            "created": "2025-03-23T20:44:22Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Mechatroniker / Elektroniker / Elektriker (m/w/d) Berufseinsteiger willkommen",
+            "company": "Leadec Management Central Europe BV & Co. KG",
+            "category": "IT-Stellen",
+            "location": "Battgendorf, S\u00f6mmerda (Kreis)",
+            "created": "2025-03-23T15:20:30Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger als Softwareentwickler mit Fokus auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Wei\u00dfenthurm, Mayen-Koblenz (Kreis)",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Lizenzoptimierungsspezialist (m/w/d) \u2013 Strategisches Management von Softwarelizenzen",
+            "company": "Stiftung Kirchliches Rechenzentrum S\u00fcdwestdeutschland",
+            "category": "IT-Stellen",
+            "location": "Eggenstein-Leopoldshafen, Karlsruhe (Kreis)",
+            "created": "2025-03-23T03:26:34Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Lead Ingenieur MSR (m/w/d)",
+            "company": "Griesemann Gruppe",
+            "category": "IT-Stellen",
+            "location": "Herne, Nordrhein-Westfalen",
+            "created": "2025-03-23T02:48:33Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Mid-level Kotlin engineer (m/f/d) - Team Network Services",
+            "company": "Flix",
+            "category": "IT-Stellen",
+            "location": "Berlin, Deutschland",
+            "created": "2025-03-23T12:17:43Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "N/A"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Hamm-Mitte, Hamm",
+            "created": "2025-03-23T19:16:08Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "IT-System-Kaufmann /-frau - IT-Systemhaus (m/w/d)",
+            "company": "PerZukunft Arbeitsvermittlung GmbH&Co.KG",
+            "category": "IT-Stellen",
+            "location": "Berlin, Deutschland",
+            "created": "2025-03-23T19:40:58Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Quereinsteiger als KI-Entwickler auf Java und C# (m/w/d) - Auch ohne Vorkenntnisse",
+            "company": "Smart Industry Campus GmbH",
+            "category": "IT-Stellen",
+            "location": "Unterbach, D\u00fcsseldorf",
+            "created": "2025-03-23T19:16:05Z",
+            "salary_min": "N/A",
+            "salary_max": "N/A",
+            "contract_type": "permanent"
+        }
+    ]
+}
