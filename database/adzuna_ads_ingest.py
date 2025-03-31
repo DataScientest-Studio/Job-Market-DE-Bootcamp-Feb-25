@@ -1,6 +1,5 @@
 import psycopg2
 import os
-from psycopg2 import sql
 from dotenv import load_dotenv
 import pandas as pd
 
@@ -18,8 +17,13 @@ def connect_db():
     """Establish connection to PostgreSQL"""
     try:
         conn = psycopg2.connect(
-            dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, host=DB_HOST, port=DB_PORT
+            dbname=DB_NAME, 
+            user=DB_USER.encode('utf-8').decode('utf-8'), 
+            password=DB_PASSWORD.encode('utf-8').decode('utf-8'), 
+            host=DB_HOST, 
+            port=DB_PORT
         )
+        conn.set_client_encoding('UTF8')
         return conn
     except Exception as e:
         print(f"Error connecting to database: {e}")
@@ -35,13 +39,17 @@ def insert_jobs(jobs):
         cursor = conn.cursor()
 
         insert_query = """
-            INSERT INTO job_listings (job_title, employer, job_category, job_location, posted_date, salary_min, salary_max, employment_type)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+            INSERT INTO job_listings (
+                ads_id, job_title, employer, job_category, job_location, posted_date, 
+                salary_min, salary_max, contract_type, fixed_contract, limited_contract, contract_undefined
+            )
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (job_title, employer, posted_date) DO NOTHING;
         """
 
         job_data = [
             (
+                job["ads_id"],         # Index as ads_id
                 job["job_title"],      # Renamed to job_title
                 job["employer"],       # Renamed to employer
                 job["job_category"],   # Renamed to job_category
@@ -49,7 +57,10 @@ def insert_jobs(jobs):
                 job["posted_date"],    # Renamed to posted_date
                 job["salary_min"],     
                 job["salary_max"],     
-                job["employment_type"],# Renamed to employment_type
+                job["contract_type"],
+                job["fixed_contract"],
+                job["limited_contract"],
+                job["contract_undefined"]
             )
             for job in jobs
         ]
@@ -67,10 +78,14 @@ def insert_jobs(jobs):
 def load_csv(file_path):
     """Load job listings from the CSV into a pandas DataFrame"""
     try:
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file_path, sep = ',', encoding = 'utf-8')
         
+        # Ensure index is used as an identifier
+        df.insert(0, "ads_id", df.index)  # Assign index to ads_id column
+
         # Clean or rename the columns to match the database schema
         df.rename(columns={
+            'ads_id': 'ads_id',
             'title': 'job_title',
             'company': 'employer',
             'category': 'job_category',
@@ -78,7 +93,10 @@ def load_csv(file_path):
             'created': 'posted_date',
             'salary_min': 'salary_min',
             'salary_max': 'salary_max',
-            'contract_type': 'employment_type'
+            'contract_type': 'contract_type',
+            'fixed_contract': 'fixed_contract',
+            'limited_contract': 'limited_contract',
+            'contract_undefined': 'contract_undefined'
         }, inplace=True)
         
         # Convert DataFrame to list of dictionaries (each row becomes a dictionary)
@@ -90,8 +108,9 @@ def load_csv(file_path):
         return []
 
 # Load data from the CSV
-csv_file_path = "../data_collection/output_files/adzuna_ads_itjobs.csv"
-extracted_jobs = load_csv(csv_file_path)
+csv_file_path = "C:/Users/Kris/DE_DataScientest/Job-Market-DE-Bootcamp-Feb-25/data_analysis/df_it_jobs_cleaned.csv"
+csv_file = csv_file_path.decode('utf-8', errors='replace')
+extracted_jobs = load_csv(csv_file)
 
 # Insert job data into the database
 if extracted_jobs:

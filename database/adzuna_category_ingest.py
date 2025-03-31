@@ -17,10 +17,20 @@ DB_PORT = "5432"
 def connect_db():
     """Establish connection to PostgreSQL"""
     try:
+        print(f"Connecting to: dbname={DB_NAME}, user={DB_USER}, host={DB_HOST}")
         conn = psycopg2.connect(
-            dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, host=DB_HOST, port=DB_PORT
+            dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, host=DB_HOST, port=DB_PORT, options="-c client_encoding=UTF8" # enforcing UTF-8 during connection
         )
         conn.set_client_encoding('UTF8')
+
+        # Debug PostgreSQL encoding
+        cursor = conn.cursor()
+        cursor.execute("SHOW server_encoding;")
+        print("Server Encoding:", cursor.fetchone()[0])  # Expect "UTF8"
+
+        cursor.execute("SHOW client_encoding;")
+        print("Client Encoding:", cursor.fetchone()[0])  # Expect "UTF8"
+
         return conn
     except Exception as e:
         print(f"Error connecting to database: {e}")
@@ -65,10 +75,15 @@ def insert_job_categories(categories):
 def load_csv(file_path):
     """Load job categories from the CSV into a pandas DataFrame"""
     try:
-        df = pd.read_csv(file_path)
+        
+        df = pd.read_csv(file_path, sep = ',', encoding = 'utf-8')
+        
+        # Ensure index is used as an identifier
+        df.insert(0, "category_id", df.index)  # Assign index to ads_id column
         
         # Clean or rename the columns if needed (though they seem correct for your table)
         df.rename(columns={
+            "category_id": "category_id",
             'tag': 'category_tag',
             '__class__': 'api_class',
             'label': 'country_language_category_tag'
@@ -85,6 +100,12 @@ def load_csv(file_path):
 # Load data from the CSV
 csv_file_path = "../data_collection/output_files/adzuna_category.csv"
 extracted_categories = load_csv(csv_file_path)
+
+for category in extracted_categories: # To Catch Encoding Errors
+    try:
+        str(category).encode("utf-8")  # Try encoding
+    except UnicodeEncodeError as e:
+        print(f"Encoding error in row: {category}, Error: {e}")
 
 # Insert job categories data into the database
 if extracted_categories:
