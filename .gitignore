@@ -7,3 +7,9 @@ __pycache__/
 
 # Ignore environment variables
 .env
+
+.gitignore
+
+data_collection/output_files/archive/
+database/archive/
+data_collection/api_calls/archive/
