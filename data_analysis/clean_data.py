@@ -5,6 +5,10 @@ import numpy as np
 import pandas as pd
 from datetime import datetime as dt
 
+###################################################################
+###################### clean 'adzuna_it_jobs.csv ##################
+###################################################################
+
 ### read the csv-data-file
 df = pd.read_csv('adzuna_it_jobs.csv', sep = ',', encoding = 'utf-8')
 
@@ -45,18 +49,40 @@ df = df.drop(df[(df.salary_max > 0) & (df.salary_max < 10000)].index)
 
 ### reset index
 df.index = list(range(0,len(df),1))
+df.index.name = 'job_offer_no'
 
 ### dissolve'contract_type' for further computation
 df['fixed_contract'] = np.nan
 df['limited_contract'] = np.nan
 df['contract_undefined'] = np.nan
 
-df['fixed_contract'] = df['fixed_contract'].mask(df.contract_type == 'permanent', 1).mask(df.contract_type != 'permanent', 0)
-df['limited_contract'] = df['limited_contract'].mask(df.contract_type == 'contract', 1).mask(df.contract_type != 'contract', 0)
-df['contract_undefined'] = df['contract_undefined'].mask(df.contract_type == '0', 1).mask(df.contract_type != '0', 0)
+df['fixed_contract'] = df['fixed_contract'].mask(df.contract_type == 'permanent', True).mask(df.contract_type != 'permanent', False).replace({True : 1, False : 0})
+df['limited_contract'] = df['limited_contract'].mask(df.contract_type == 'contract', True).mask(df.contract_type != 'contract', False).replace({True : 1, False : 0})
+df['contract_undefined'] = df['contract_undefined'].mask(df.contract_type == '0', True).mask(df.contract_type != '0', False).replace({True : 1, False : 0})
 
 ### check df
-# print(df.shape)
+# print(df.head())
 
 ### save df to csv-file
 # df.to_csv('df_it_jobs_cleaned.csv', sep=',', encoding='utf-8', index=True)
+
+
+###################################################################
+###################### clean 'adzuna_category.csv' ################
+###################################################################
+
+### read the csv-data-file
+df = pd.read_csv('adzuna_category.csv', sep = ',', encoding = 'utf-8')
+
+### transform data into the right data type for each column
+df['label'] = df['label'].astype('string')
+df['tag'] = df['tag'].astype('string')
+
+### drop __CLASS__ column
+df = df.drop('__CLASS__', axis = 1)
+
+### check df
+# print(df)
+
+### save df to csv-file
+# df.to_csv('adzuna_category_cleaned.csv', sep=',', encoding='utf-8', index=False)
