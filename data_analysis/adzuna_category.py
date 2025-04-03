@@ -7,8 +7,8 @@ import requests
 
 # DE market, adjust for GB if needed
 API_URL = "https://api.adzuna.com/v1/api/jobs/de/categories?app_id=9585c5e8&app_key=482caa"
-API_KEY = 'b0fb8e147bd371fb5ddb8cff1bed4fb6'
-API_ID = '608ce831'
+API_KEY = 'my_key'
+API_ID = 'my_id'
 
 def get_all_labels():
     url = API_URL
