@@ -1,6 +1,8 @@
+-- Drop Table if perviously created
+DROP TABLE IF EXISTS adzuna_category;
+-- Create Table
 CREATE TABLE adzuna_category (
-    category_id SERIAL PRIMARY KEY,
-    category_tag TEXT NOT NULL,
-    api_calss TEXT NOT NULL,
-    country_language_category_tag TEXT NOT NULL
+    categoryid SERIAL PRIMARY KEY,
+    categorytag TEXT NOT NULL,
+    countrylanguagecategorytag TEXT NOT NULL
 );
