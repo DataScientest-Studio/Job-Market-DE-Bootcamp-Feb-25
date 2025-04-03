@@ -14,16 +14,16 @@ trade-construction-jobs,Adzuna::API::Response::Category,Stellen aus Handel & Bau
 admin-jobs,Adzuna::API::Response::Category,Verwaltungsstellen
 legal-jobs,Adzuna::API::Response::Category,Juristische Stellen
 creative-design-jobs,Adzuna::API::Response::Category,Stellen aus Kreation & Design
-graduate-jobs,Adzuna::API::Response::Category,Stellen für Hochschulabsolventen
+graduate-jobs,Adzuna::API::Response::Category,Stellen fÃ¼r Hochschulabsolventen
 retail-jobs,Adzuna::API::Response::Category,Stellen aus Einzelhandel
 consultancy-jobs,Adzuna::API::Response::Category,Beraterstellen
 manufacturing-jobs,Adzuna::API::Response::Category,Stellen aus Fertigung
-scientific-qa-jobs,Adzuna::API::Response::Category,Stellen aus Wissenschaft & Qualitätssicherung
+scientific-qa-jobs,Adzuna::API::Response::Category,Stellen aus Wissenschaft & QualitÃ¤tssicherung
 social-work-jobs,Adzuna::API::Response::Category,Stellen aus Sozialarbeit
 travel-jobs,Adzuna::API::Response::Category,Stellen aus Tourismus
 energy-oil-gas-jobs,Adzuna::API::Response::Category,Stellen aus Versorgungsunternehmen
 property-jobs,Adzuna::API::Response::Category,Immobilienstellen
-charity-voluntary-jobs,Adzuna::API::Response::Category,Gemeinnützige & ehrenamtliche Stellen
+charity-voluntary-jobs,Adzuna::API::Response::Category,GemeinnÃ¼tzige & ehrenamtliche Stellen
 domestic-help-cleaning-jobs,Adzuna::API::Response::Category,Stellen aus Haushaltshilfen & Reinigung
 maintenance-jobs,Adzuna::API::Response::Category,Stellen aus Wartung
 part-time-jobs,Adzuna::API::Response::Category,Teilzeitstellen

@@ -109,8 +109,7 @@ def load_csv(file_path):
 
 # Load data from the CSV
 csv_file_path = "C:/Users/Kris/DE_DataScientest/Job-Market-DE-Bootcamp-Feb-25/data_analysis/df_it_jobs_cleaned.csv"
-csv_file = csv_file_path.decode('utf-8', errors='replace')
-extracted_jobs = load_csv(csv_file)
+extracted_jobs = load_csv(csv_file_path)
 
 # Insert job data into the database
 if extracted_jobs:
