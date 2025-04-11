@@ -1,0 +1,11 @@
+# Ignore local environment configuration
+.env
+
+# Ignore archive folders and files
+data_collection/api_calls/archive/
+data_collection/output_files/archive/
+data_consumption/streamlit_practice
+database/archive/
+
+# Ignore virtual environment folder
+venv/
