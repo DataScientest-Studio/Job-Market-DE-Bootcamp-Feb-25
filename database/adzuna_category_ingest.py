@@ -39,7 +39,7 @@ def load_csv(file_path):
     """Load job categories from the CSV into a pandas DataFrame"""
     try:
         # Try reading the file with latin1 encoding
-        df = pd.read_csv(file_path, index_col=0, encoding="cp1252")
+        df = pd.read_csv(file_path, index_col=0, encoding='unicode_escape')
         return df
     except Exception as e:
         print(f"Error reading CSV file: {e}")

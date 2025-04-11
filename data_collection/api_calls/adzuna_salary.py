@@ -47,4 +47,5 @@ df = df.sort_values('Month')
 
 print(df)
 
-#df.to_excel('adzuna_salary_call.xlsx')
+df.to_csv('adzuna_salary_call.csv', index=True)
+print("CSV file saved successfully!")
