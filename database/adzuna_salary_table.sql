@@ -10,8 +10,8 @@ CREATE TABLE Salary_M24 (
     Salary NUMERIC
 );
 
--- Insert Data from exitsting CSV file
+-- when inside the container: adzunadb # Docker is searching for a file there and cannot access it locally
 COPY Salary_M24(Index, Month, Location, "Job Title", Salary)
-FROM '../data_collection/adzuna_salary_24M.csv'
+FROM '/tmp/adzuna_salary_24M.csv'
 DELIMITER ','
 CSV HEADER;
