@@ -1,8 +1,16 @@
+-----------------UTF Cleaned--------------------
 -- Drop Table if perviously created
-DROP TABLE IF EXISTS adzuna_category;
+DROP TABLE IF EXISTS categories;
 -- Create Table
-CREATE TABLE adzuna_category (
-    categoryid SERIAL PRIMARY KEY,
+CREATE TABLE categories(
+    index NUMERIC,
+    categoryid TEXT NOT NULL,
     categorytag TEXT NOT NULL,
     countrylanguagecategorytag TEXT NOT NULL
 );
+
+--categories: table name in adzunadb
+COPY categories(index,categoryid,categorytag,countrylanguagecategorytag)
+FROM '/tmp/adzuna_category_utf.csv'
+DELIMITER ','
+CSV HEADER;
