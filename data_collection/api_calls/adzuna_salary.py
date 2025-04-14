@@ -11,7 +11,7 @@ API_KEY = os.getenv('API_KEY')
 API_ID = os.getenv('API_ID')
 
 # Titles and City List adjustable | Non exhaustive list
-job_titles = ["Engineer", "Analyst", "Data Engineer", "Data Analyst", "Software Developer"]
+job_titles = ["Engineer", "Analyst", "Software Developer"]
 cities = ["Berlin", "Munich", "Hamburg", "Frankfurt", "Cologne"]
 
 def get_jobs(job_title, city):
@@ -47,5 +47,5 @@ df = df.sort_values('Month')
 
 print(df)
 
-df.to_csv('adzuna_salary_call.csv', index=True)
+df.to_csv('../api_output_files/adzuna_salary.csv', index=True)
 print("CSV file saved successfully!")

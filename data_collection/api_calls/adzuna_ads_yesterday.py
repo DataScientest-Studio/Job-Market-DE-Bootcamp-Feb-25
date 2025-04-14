@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
 import random
-
+from pathlib import Path
 # Load API credentials
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
@@ -109,7 +109,8 @@ extracted_jobs = [extract_job_data(job) for job in jobs]
 yesterday_date = (datetime.utcnow() - timedelta(days=1)).strftime("%Y-%m-%d")
 
 # Output file name
-output_filename = f"adzuna_ads_itjobs_{yesterday_date}.csv"
+output_dir = Path("yesterdays_ads_data")
+output_filename = output_dir / f"adzuna_ads_{yesterday_date}.csv"
 
 # Save to CSV file
 with open(output_filename, mode="w", newline="", encoding="utf-8") as file:
