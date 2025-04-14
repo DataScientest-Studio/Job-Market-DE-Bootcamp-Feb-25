@@ -6,11 +6,11 @@ import pandas as pd
 from datetime import datetime as dt
 
 ###################################################################
-###################### clean 'adzuna_it_jobs.csv ##################
+###################### clean 'adzuna_ads.csv ##################
 ###################################################################
 
 ### read the csv-data-file
-df = pd.read_csv('adzuna_it_jobs.csv', sep = ',', encoding = 'utf-8')
+df = pd.read_csv('adzuna_ads.csv', sep = ',', encoding = 'utf-8')
 
 ### encode German special characters => solved when reading csv-file by encoding
 ### transform missing values to NaNs => solved when reding csv-file as a dataframe
@@ -65,24 +65,3 @@ df['contract_undefined'] = df['contract_undefined'].mask(df.contract_type == '0'
 
 ### save df to csv-file
 # df.to_csv('df_it_jobs_cleaned.csv', sep=',', encoding='utf-8', index=True)
-
-
-###################################################################
-###################### clean 'adzuna_category.csv' ################
-###################################################################
-
-### read the csv-data-file
-df = pd.read_csv('adzuna_category.csv', sep = ',', encoding = 'utf-8')
-
-### transform data into the right data type for each column
-df['label'] = df['label'].astype('string')
-df['tag'] = df['tag'].astype('string')
-
-### drop __CLASS__ column
-df = df.drop('__CLASS__', axis = 1)
-
-### check df
-# print(df)
-
-### save df to csv-file
-# df.to_csv('adzuna_category_cleaned.csv', sep=',', encoding='utf-8', index=False)

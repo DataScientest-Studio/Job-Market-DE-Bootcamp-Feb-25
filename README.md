@@ -1,5 +1,5 @@
 # Job-Market-DE-Bootcamp-Feb-25
-This is our folder structure
+This is our folder structure, with a short decription of its content:
 
 Job-Market-DE-Bootcamp-Feb-25/
 ├── data_collection/

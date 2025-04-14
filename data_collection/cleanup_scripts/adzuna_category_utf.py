@@ -41,6 +41,6 @@ def load_csv(file_path):
         print(f"Error reading CSV file: {e}")
         return []
 
-df = pd.DataFrame(load_csv("adzuna_category.csv"))
-df.to_csv("adzuna_category_utf.csv")
+df = pd.DataFrame(load_csv("/api_output_files/adzuna_category.csv"))
+df.to_csv("cleanup_output_files/adzuna_category_utf.csv")
 #print(df)
