@@ -1,0 +1,31 @@
+tag,__CLASS__,label
+accounting-finance-jobs,Adzuna::API::Response::Category,Stellen aus Buchhaltung & Finanzwesen
+it-jobs,Adzuna::API::Response::Category,IT-Stellen
+sales-jobs,Adzuna::API::Response::Category,Vertriebsstellen
+customer-services-jobs,Adzuna::API::Response::Category,Kundendienststellen
+engineering-jobs,Adzuna::API::Response::Category,Technikerstellen
+hr-jobs,Adzuna::API::Response::Category,Stellen aus Personal & Personalbeschaffung
+healthcare-nursing-jobs,Adzuna::API::Response::Category,Stellen aus Gesundheitswesen & Pflege
+hospitality-catering-jobs,Adzuna::API::Response::Category,Stellen aus Gastronomie & Catering
+pr-advertising-marketing-jobs,Adzuna::API::Response::Category,"Stellen aus PR, Werbung & Marketing"
+logistics-warehouse-jobs,Adzuna::API::Response::Category,Stellen aus Logistik & Lagerhaltung
+teaching-jobs,Adzuna::API::Response::Category,Lehrberufe
+trade-construction-jobs,Adzuna::API::Response::Category,Stellen aus Handel & Bau
+admin-jobs,Adzuna::API::Response::Category,Verwaltungsstellen
+legal-jobs,Adzuna::API::Response::Category,Juristische Stellen
+creative-design-jobs,Adzuna::API::Response::Category,Stellen aus Kreation & Design
+graduate-jobs,Adzuna::API::Response::Category,Stellen für Hochschulabsolventen
+retail-jobs,Adzuna::API::Response::Category,Stellen aus Einzelhandel
+consultancy-jobs,Adzuna::API::Response::Category,Beraterstellen
+manufacturing-jobs,Adzuna::API::Response::Category,Stellen aus Fertigung
+scientific-qa-jobs,Adzuna::API::Response::Category,Stellen aus Wissenschaft & Qualitätssicherung
+social-work-jobs,Adzuna::API::Response::Category,Stellen aus Sozialarbeit
+travel-jobs,Adzuna::API::Response::Category,Stellen aus Tourismus
+energy-oil-gas-jobs,Adzuna::API::Response::Category,Stellen aus Versorgungsunternehmen
+property-jobs,Adzuna::API::Response::Category,Immobilienstellen
+charity-voluntary-jobs,Adzuna::API::Response::Category,Gemeinnützige & ehrenamtliche Stellen
+domestic-help-cleaning-jobs,Adzuna::API::Response::Category,Stellen aus Haushaltshilfen & Reinigung
+maintenance-jobs,Adzuna::API::Response::Category,Stellen aus Wartung
+part-time-jobs,Adzuna::API::Response::Category,Teilzeitstellen
+other-general-jobs,Adzuna::API::Response::Category,Sonstige/Allgemeine Stellen
+unknown,Adzuna::API::Response::Category,Unknown
