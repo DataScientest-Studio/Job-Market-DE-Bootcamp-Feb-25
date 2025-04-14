@@ -1,36 +1,19 @@
-#from dotenv import load_dotenv
-# import os
-import requests
+###################################################################
+###################### clean 'adzuna_category.csv' ################
+###################################################################
 
-# Load environment variables from .env file
-# load_dotenv()
+### read the csv-data-file
+df = pd.read_csv('adzuna_category.csv', sep = ',', encoding = 'utf-8')
 
-# DE market, adjust for GB if needed
-API_URL = "https://api.adzuna.com/v1/api/jobs/de/categories?app_id=9585c5e8&app_key=482caa"
-API_KEY = 'my_key'
-API_ID = 'my_id'
+### transform data into the right data type for each column
+df['label'] = df['label'].astype('string')
+df['tag'] = df['tag'].astype('string')
 
-def get_all_labels():
-    url = API_URL
-    params = {
-        "app_id": API_ID,
-        "app_key": API_KEY
-    }
+### drop __CLASS__ column
+df = df.drop('__CLASS__', axis = 1)
 
-    response = requests.get(url, params=params)
-    return response.json() if response.status_code == 200 else {}
-
-all_labels = get_all_labels()
-print(all_labels)
-
-#---------------------------------------------------------------------------------
-import pandas as pd
-
-# Convert to DataFrame
-df = pd.DataFrame(all_labels["results"])
-
-# Display the DataFrame
-print(df)
+### check df
+# print(df)
 
 ### save df to csv-file
-df.to_csv('adzuna_category.csv', sep=',', encoding='utf-8', index=False)
+# df.to_csv('adzuna_category_cleaned.csv', sep=',', encoding='utf-8', index=False)
