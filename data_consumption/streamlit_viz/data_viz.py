@@ -39,6 +39,7 @@ if page == pages[1] :
   df_ads['month_year'] = df_ads['created'].dt.to_period('M')
   df_ads = df_ads.sort_values('month_year').reset_index(drop=True)
   jobs_per_month = df_ads['month_year'].value_counts()
+  jobs_per_month.index = jobs_per_month.index.strftime('%Y-%m')
   st.line_chart(data = jobs_per_month)
 
   st.write('#####')
