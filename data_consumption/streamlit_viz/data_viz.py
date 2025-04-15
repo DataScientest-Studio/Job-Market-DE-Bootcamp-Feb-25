@@ -68,12 +68,12 @@ if page == pages[1] :
   chart_grouped = alt.Chart(avg_salary_job).mark_bar().encode(
       x=alt.X('Location:N', axis=alt.Axis(labelAngle=45)),
       y=alt.Y('Salary:Q'),
-      color='Job Title:N',
+      color=alt.Color('Job Title:N', legend=alt.Legend(orient='bottom')),
       tooltip=['Location', 'Job Title', 'Salary'],
       column=alt.Column('Job Title:N', spacing=10)
   ).properties(
-      width=150,
-      height=400,
+      width=250,
+      height=300,
   )
   st.altair_chart(chart_grouped)
   
