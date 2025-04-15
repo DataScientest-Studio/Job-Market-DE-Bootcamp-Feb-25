@@ -4,10 +4,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime as dt
+import altair as alt
 
-df_salary = pd.read_csv("../../data_collection/output_files/adzuna_salary_24M.csv")
-df_cat = pd.read_csv("../../data_collection/output_files/adzuna_category.csv")
-df_ads = pd.read_csv("../../data_collection/output_files/combined_adzuna_ads_itjobs.csv")
+df_salary = pd.read_csv("../../data_collection/api_output_files/adzuna_salary_24M.csv")
+df_cat = pd.read_csv("../../data_collection/cleanup_output_files/adzuna_category_utf.csv")
+df_ads = pd.read_csv("../../data_collection/cleanup_output_files/adzuna_ads_clean.csv")
 
 st.title("Adzuna German IT-Job Market")
 st.sidebar.title("Table of contents")
@@ -44,7 +45,38 @@ if page == pages[1] :
   st.write('##### Top Empoyers Offering Most Jobs for the Time Being...')
   top_employers = df_ads['company'].value_counts()
   st.write(top_employers)
-
+  
+  st.write('#####')
+  st.write('##### Top 5 populated German cities and their 24M avrg. salary for the jobs: Analyst, Engineer and Software Developer')
+  avg_salary = df_salary.groupby("Location")["Salary"].mean().reset_index()
+  avg_salary = avg_salary.sort_values(by="Salary", ascending=False)
+  chart = alt.Chart(avg_salary).mark_bar().encode(
+      x=alt.X('Location:N', sort='-y', axis=alt.Axis(labelAngle=45)),
+      y='Salary:Q',
+      tooltip=['Location', 'Salary']
+  ).properties(
+      width=600,
+      height=400,
+      title='Average Salary by Location'
+  )
+  st.altair_chart(chart)
+  
+  st.write('#####')
+  st.write('##### Average Salary by Location and Job Title (24M Average)')
+  avg_salary_job = df_salary.groupby(["Location", "Job Title"])["Salary"].mean().reset_index()
+  avg_salary_job = avg_salary_job.sort_values(by="Salary", ascending=False)
+  chart_grouped = alt.Chart(avg_salary_job).mark_bar().encode(
+      x=alt.X('Location:N', axis=alt.Axis(labelAngle=45)),
+      y=alt.Y('Salary:Q'),
+      color='Job Title:N',
+      tooltip=['Location', 'Job Title', 'Salary'],
+      column=alt.Column('Job Title:N', spacing=10)
+  ).properties(
+      width=150,
+      height=400,
+  )
+  st.altair_chart(chart_grouped)
+  
   st.write('#####')
   st.write('##### Development of Avg. Salary in Desired Location')
   display = st.radio('Which location do you want to be shown?', ('Frankfurt', 'Hamburg', 'Munich', 'Cologne', 'Berlin'))
