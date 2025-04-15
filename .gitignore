@@ -3,7 +3,6 @@
 
 # Ignore archive folders and files
 data_collection/api_calls/archive/
-data_collection/api_calls/yesterdays_ads_data/
 data_collection/output_files/archive/
 data_consumption/streamlit_practice
 database/archive/
