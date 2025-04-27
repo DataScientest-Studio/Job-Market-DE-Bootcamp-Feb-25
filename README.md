@@ -7,7 +7,7 @@ Job-Market-DE-Bootcamp-Feb-25/
 │       └── py scripts with adzuna API calls to extract data
 │   └── api_output_files/
 │       └── raw csv files from api_calls
-│   └── cleanup_output/
+│   └── cleanup_output_files/
 │       └── py scripts to clean the raw csvs from api_output_files
 │   └── cleanup_scripts/
 │       └── csv scripts to insert into database
