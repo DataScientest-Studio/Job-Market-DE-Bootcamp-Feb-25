@@ -2,7 +2,8 @@
 -- Drop Table if perviously created
 DROP TABLE IF EXISTS adzuna_ads_raw;
 -- Create Table
-CREATE TABLE adzuna_ads_raw (
+CREATE TABLE adzuna_ads (
+    id SERIAL PRIMARY KEY,
     title TEXT NULL,
     company TEXT NULL,
     category TEXT,
@@ -13,7 +14,7 @@ CREATE TABLE adzuna_ads_raw (
     contract_type TEXT
 );
 
-COPY adzuna_ads_raw(title,company,category,location,created,salary_min,salary_max,contract_type)
-FROM '/tmp/combined_adzuna_ads_itjobs.csv'
+COPY adzuna_ads(title,company,category,location,created,salary_min,salary_max,contract_type)
+FROM '/tmp/adzuna_ads.csv'
 DELIMITER ','
 CSV HEADER;

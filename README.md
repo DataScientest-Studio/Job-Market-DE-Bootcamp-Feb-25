@@ -2,7 +2,7 @@
 This is our folder structure, with a short decription of its content:
 ```
 Job-Market-DE-Bootcamp-Feb-25/
-├── data_collection/
+├── 1_data_collection/
 │   └── api_calls/
 │       └── py scripts with adzuna API calls to extract data
 │   └── api_output_files/
@@ -11,11 +11,15 @@ Job-Market-DE-Bootcamp-Feb-25/
 │       └── py scripts to clean the raw csvs from api_output_files
 │   └── cleanup_scripts/
 │       └── csv scripts to insert into database
-├── data_consumption/
+└── 2_database/
+│   └── ingest py scripts, sql queries to create tables
+├── 3_data_consumption/
 │   └── streamlit_viz/
-        └── streamlit py script to vizualize data
-└── database/
-    └── ingest py scripts, sql queries to create tables and docker-compose.yaml    
+│       └── streamlit py script to vizualize data 
+├── 4_production/
+│   └── fastapi   
+├── docker-compose.yml
+├── requirements.txt
 ```
 ## Project Progress
 ### Data Collection:
