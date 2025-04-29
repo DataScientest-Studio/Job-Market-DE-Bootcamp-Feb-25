@@ -14,3 +14,11 @@ class AdzunaAd(Base):
     salary_max = Column(Float, nullable=True)
     contract_type = Column(String, nullable=True)
 
+class AdzunaSalary(Base):
+    __tablename__ = 'salary_m24'
+
+    id = Column(Integer, primary_key=True, index=True)
+    month = Column(String, index=True, nullable=False)
+    location = Column(String, index=True, nullable=False)
+    job_title = Column(String, index=True, nullable=False)
+    salary = Column(Float, nullable=False)  # Assuming salary is a float

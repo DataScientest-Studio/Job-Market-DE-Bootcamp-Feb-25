@@ -3,14 +3,14 @@
 DROP TABLE IF EXISTS categories;
 -- Create Table
 CREATE TABLE categories(
-    index NUMERIC,
-    categoryid TEXT NOT NULL,
-    categorytag TEXT NOT NULL,
-    countrylanguagecategorytag TEXT NOT NULL
+    id SERIAL PRIMARY KEY,
+    tag TEXT NOT NULL,
+    api_class TEXT NOT NULL,
+    label TEXT NOT NULL
 );
 
 --categories: table name in adzunadb
-COPY categories(index,categoryid,categorytag,countrylanguagecategorytag)
-FROM '/tmp/adzuna_category_utf.csv'
+COPY categories(id,tag,api_class,label)
+FROM '/tmp/adzuna_category.csv'
 DELIMITER ','
 CSV HEADER;
