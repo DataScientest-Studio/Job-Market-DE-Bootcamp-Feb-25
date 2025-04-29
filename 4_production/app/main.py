@@ -19,3 +19,8 @@ def get_db():
 def read_ads(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
     ads = crud.get_ads(db, skip=skip, limit=limit)
     return ads
+
+@app.get("/salary/", response_model=list[schemas.AdzunaSalarySchema])
+def read_ads(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
+    ads = crud.get_ads(db, skip=skip, limit=limit)
+    return ads

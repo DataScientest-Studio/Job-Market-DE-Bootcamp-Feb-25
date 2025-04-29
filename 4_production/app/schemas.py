@@ -16,6 +16,17 @@ class AdzunaAdSchema(BaseModel):
     class Config:
         from_attributes = True  # correct if you're using Pydantic v2
         # For Pydantic v1.x, use: orm_mode = True
+        
+class AdzunaSalarySchema(BaseModel):
+    id: int
+    month: str
+    location: str
+    job_title: str
+    salary: float
+
+    class Config:
+        from_attributes = True  # correct if you're using Pydantic v2
+        # For Pydantic v1.x, use: orm_mode = True
 
 
 
