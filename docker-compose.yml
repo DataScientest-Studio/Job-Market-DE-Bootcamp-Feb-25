@@ -44,6 +44,19 @@ services:
     networks:
       - myproject-network
 
+  streamlit:
+    build:
+      context: ./3_data_consumption/streamlit_viz
+    container_name: streamlit_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi
+    networks:
+      - myproject-network
+    volumes:
+      - ./3_data_consumption/streamlit_viz:/app
+
 volumes:
   pg_data:
     driver: local
