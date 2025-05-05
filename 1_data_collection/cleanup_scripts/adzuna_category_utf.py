@@ -1,5 +1,9 @@
 import pandas as pd
 import re
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+input_path = os.path.join(script_dir, "..", "api_output_files", "adzuna_category.csv")
 
 
 def clean_text(text):
@@ -24,13 +28,13 @@ def load_csv(file_path):
         df['label'] = df['label'].astype(str).apply(clean_text)
         
         # Ensure index is used as an identifier
-        df.insert(0, "category_id", df.index)  # Assign index to ads_id column
+        # df.insert(0, "category_id", df.index)  # Assign index to ads_id column
         
         # Clean or rename the columns if needed (though they seem correct for your table)
         df.rename(columns={
-            "category_id": "categoryid",
-            'tag': 'categorytag',
-            'label': 'countrylanguagecategorytag'
+            "category_id": "id",
+            'tag': 'tag',
+            'label': 'label'
         }, inplace=True)
         
         # Convert DataFrame to list of dictionaries (each row becomes a dictionary)
@@ -41,6 +45,6 @@ def load_csv(file_path):
         print(f"Error reading CSV file: {e}")
         return []
 
-df = pd.DataFrame(load_csv("/api_output_files/adzuna_category.csv"))
-df.to_csv("cleanup_output_files/adzuna_category_utf.csv")
+df = pd.DataFrame(load_csv(input_path))
+df.to_csv(os.path.join(script_dir, "..", "cleanup_output_files", "adzuna_category_clean.csv"))
 #print(df)
