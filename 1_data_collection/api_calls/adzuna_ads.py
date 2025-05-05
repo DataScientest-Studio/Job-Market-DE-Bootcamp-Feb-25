@@ -94,7 +94,7 @@ jobs = fetch_jobs_by_category(CATEGORY_TAG)
 extracted_jobs = [extract_job_data(job) for job in jobs]
 
 # Output file name
-output_filename = "data_collection/api_output_files/adzuna_ads.csv"
+output_filename = "1_data_collection/api_output_files/adzuna_ads.csv"
 
 # Save to CSV file
 with open(output_filename, mode="w", newline="", encoding="utf-8") as file:

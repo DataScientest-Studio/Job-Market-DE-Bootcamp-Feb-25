@@ -1,6 +1,7 @@
 ###################################################################
 ###################### clean 'adzuna_category.csv' ################
 ###################################################################
+import pandas as pd
 
 ### read the csv-data-file
 df = pd.read_csv('adzuna_category.csv', sep = ',', encoding = 'utf-8')

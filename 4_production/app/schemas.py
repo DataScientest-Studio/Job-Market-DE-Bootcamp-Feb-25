@@ -28,5 +28,13 @@ class AdzunaSalarySchema(BaseModel):
         from_attributes = True  # correct if you're using Pydantic v2
         # For Pydantic v1.x, use: orm_mode = True
 
+class AdzunaCategorySchema(BaseModel):
+    id: int
+    tag: str
+    label: str
+
+    class Config:
+        from_attributes = True  # correct if you're using Pydantic v2
+        # For Pydantic v1.x, use: orm_mode = True
 
 
