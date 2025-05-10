@@ -22,7 +22,7 @@ except requests.exceptions.RequestException as e:
     st.error(f"Error fetching data from API: {e}")
 
 try:
-    response = requests.get("http://fastapi_app:8000/asalary")
+    response = requests.get("http://fastapi_app:8000/salary")
     response.raise_for_status()
     data = response.json()
     
