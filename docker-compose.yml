@@ -57,6 +57,18 @@ services:
     volumes:
       - ./3_data_consumption/streamlit_viz:/app
 
+  cronjob:
+    build:
+      context: ./1_data_collection/api_calls
+    container_name: adzuna_cron
+    volumes:
+      - ./1_data_collection/api_calls:/app
+    depends_on:
+      - db
+    networks:
+      - myproject-network  
+
+
 volumes:
   pg_data:
     driver: local

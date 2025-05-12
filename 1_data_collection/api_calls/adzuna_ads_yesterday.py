@@ -109,7 +109,8 @@ extracted_jobs = [extract_job_data(job) for job in jobs]
 yesterday_date = (datetime.utcnow() - timedelta(days=1)).strftime("%Y-%m-%d")
 
 # Output file name
-output_dir = Path("api_output_files/yesterdays_ads_files")
+output_dir = Path("../api_output_files/yesterdays_ads_files")
+output_dir.mkdir(parents=True, exist_ok=True)  # Create the directory if it doesn't exist
 output_filename = output_dir / f"adzuna_ads_{yesterday_date}.csv"
 
 # Save to CSV file
