@@ -3,7 +3,7 @@ from datetime import datetime
 from typing import Optional
 
 class AdzunaAdSchema(BaseModel):
-    id: int
+    job_offer_id: int
     title: str
     company: str
     category: str
@@ -12,6 +12,9 @@ class AdzunaAdSchema(BaseModel):
     salary_min: Optional[float] = None  # Allow None
     salary_max: Optional[float] = None  # Allow None
     contract_type: Optional[str] = None  # Allow None
+    fixed_contract: Optional[int] = None  # Allow None
+    limited_contract: Optional[int] = None  # Allow None
+    contract_undefined: Optional[int] = None  # Allow None
 
     class Config:
         from_attributes = True  # correct if you're using Pydantic v2
