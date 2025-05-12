@@ -1,2 +1,1 @@
-0 10 * * * /usr/bin/python3 /path/to/adzuna_ads_yesterday.py
 0 10 * * * python /app/adzuna_ads_yesterday.py >> /var/log/adzuna_cron.log 2>&1
