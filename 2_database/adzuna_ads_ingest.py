@@ -18,8 +18,8 @@ def connect_db():
     try:
         conn = psycopg2.connect(
             dbname=DB_NAME, 
-            user=DB_USER.encode('utf-8').decode('utf-8'), 
-            password=DB_PASSWORD.encode('utf-8').decode('utf-8'), 
+            user=DB_USER,
+            password=DB_PASSWORD,
             host=DB_HOST, 
             port=DB_PORT
         )
@@ -40,21 +40,21 @@ def insert_jobs(jobs):
 
         insert_query = """
             INSERT INTO job_listings (
-                ads_id, job_title, employer, job_category, job_location, posted_date, 
+                job_offer_id, title, company, category, location, created, 
                 salary_min, salary_max, contract_type, fixed_contract, limited_contract, contract_undefined
             )
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-            ON CONFLICT (job_title, employer, posted_date) DO NOTHING;
+            ON CONFLICT (title, company, created) DO NOTHING;
         """
 
         job_data = [
             (
-                job["ads_id"],         # Index as ads_id
-                job["job_title"],      # Renamed to job_title
-                job["employer"],       # Renamed to employer
-                job["job_category"],   # Renamed to job_category
-                job["job_location"],   # Renamed to job_location
-                job["posted_date"],    # Renamed to posted_date
+                job["job_offer_id"],   # Index
+                job["title"],      
+                job["company"],       
+                job["category"],   
+                job["location"],   
+                job["created"],   
                 job["salary_min"],     
                 job["salary_max"],     
                 job["contract_type"],
@@ -78,19 +78,19 @@ def insert_jobs(jobs):
 def load_csv(file_path):
     """Load job listings from the CSV into a pandas DataFrame"""
     try:
-        df = pd.read_csv(file_path, sep = ',', encoding = 'utf-8')
+        df = pd.read_csv(file_path, sep=',', encoding='ISO-8859-1', on_bad_lines='warn')
         
         # Ensure index is used as an identifier
         df.insert(0, "ads_id", df.index)  # Assign index to ads_id column
 
         # Clean or rename the columns to match the database schema
         df.rename(columns={
-            'ads_id': 'ads_id',
-            'title': 'job_title',
-            'company': 'employer',
-            'category': 'job_category',
-            'location': 'job_location',
-            'created': 'posted_date',
+            'job_offer_id': 'job_offer_id',
+            'title': 'jtitle',
+            'company': 'company',
+            'category': 'category',
+            'location': 'location',
+            'created': 'created',
             'salary_min': 'salary_min',
             'salary_max': 'salary_max',
             'contract_type': 'contract_type',
@@ -108,7 +108,7 @@ def load_csv(file_path):
         return []
 
 # Load data from the CSV
-csv_file_path = "C:/Users/Kris/DE_DataScientest/Job-Market-DE-Bootcamp-Feb-25/data_analysis/df_it_jobs_cleaned.csv"
+csv_file_path = "../cleanup_output_files/adzuna_ads_all_clean.csv"
 extracted_jobs = load_csv(csv_file_path)
 
 # Insert job data into the database
@@ -116,3 +116,4 @@ if extracted_jobs:
     insert_jobs(extracted_jobs)
 else:
     print("No job data to insert.")
+

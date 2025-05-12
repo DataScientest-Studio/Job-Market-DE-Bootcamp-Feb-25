@@ -83,7 +83,7 @@ def insert_job_categories(df):
         conn.close()
 
 # Main execution
-csv_file_path = "../data_collection/output_files/adzuna_category_utf.csv"  # Update with your file path
+csv_file_path = "../1_data_collection/output_files/adzuna_category_utf.csv"  # Update with your file path
 df = load_csv(csv_file_path)
 if df is not None:
     insert_job_categories(df)
