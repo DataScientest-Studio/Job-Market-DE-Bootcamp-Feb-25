@@ -12,9 +12,9 @@ CREATE TABLE adzuna_ads_all (
     salary_min FLOAT,
     salary_max FLOAT,
     contract_type TEXT,
-    fixed_contract TEXT,
-    limited_contract TEXT,
-    contract_undefined TEXT
+    fixed_contract INT,
+    limited_contract INT,
+    contract_undefined INT
 );
 
 -- in different terminal execute:
