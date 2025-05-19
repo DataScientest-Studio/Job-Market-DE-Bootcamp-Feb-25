@@ -58,13 +58,14 @@ if page == pages[0] :
 if page == pages[1] :
   st.write('### Some Vizualizations of Data')
   st.write('#####')
-  st.write('##### Overall Development of Job-Ads by Month (creation date)')
+  st.write('##### Overall Development of Job-Ads by week since 2025 (creation date)')
   df_ads['created'] = pd.to_datetime(df_ads['created'])
-  df_ads['month_year'] = df_ads['created'].dt.to_period('M')
-  df_ads = df_ads.sort_values('month_year').reset_index(drop=True)
-  jobs_per_month = df_ads['month_year'].value_counts()
-  jobs_per_month.index = jobs_per_month.index.strftime('%Y-%m')
-  st.line_chart(data = jobs_per_month)
+  # Filter to only include 2025 and later
+  df_ads = df_ads[df_ads['created'] >= '2025-01-01']
+  # Group by ISO week (Year-Week)
+  df_ads['year_week'] = df_ads['created'].dt.strftime('%Y-%U')
+  jobs_per_week = df_ads['year_week'].value_counts().sort_index()
+  st.line_chart(data=jobs_per_week)
 
   st.write('#####')
   st.write('##### Top Employers Offering Most Jobs for the Time Being...')

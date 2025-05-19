@@ -18,7 +18,7 @@ CREATE TABLE adzuna_ads_all (
 );
 
 -- in different terminal execute:
--- docker cp "..\Job-Market-DE-Bootcamp-Feb-25\1_data_collection\cleanup_output_files\adzuna_ads_all_clean.csv" postgres_db:/tmp/
+-- docker cp "../Job-Market-DE-Bootcamp-Feb-25/1_data_collection/cleanup_output_files/adzuna_ads_all_clean.csv" postgres_db:/tmp/
 
 COPY adzuna_ads_all(job_offer_id, title,company,category,location,created,salary_min,salary_max,contract_type, fixed_contract,limited_contract,contract_undefined)
 FROM '/tmp/adzuna_ads_all_clean.csv'

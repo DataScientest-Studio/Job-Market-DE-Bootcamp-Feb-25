@@ -11832,3 +11832,311 @@ job_offer_id,title,company,category,location,created,salary_min,salary_max,contr
 11830,IT Service Desk Supervisor & Service Now Administrator (m/w/d) in Voll- oder Teilzeit,Techem Energy Services GmbH,IT-Stellen,"Eschborn, Main-Taunus-Kreis",2025-05-11 07:25:34+00:00,0,0,0,0,0,1
 11831,Associate Account Manager,Palo Alto Networks,IT-Stellen,"Berlin, Deutschland",2025-05-11 09:14:50+00:00,0,0,0,0,0,1
 11832,Junior Sales / Account Manager - IT,Logicalis,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-11 21:32:43+00:00,0,0,0,0,0,1
+11833,Abteilungsleitung Network Operations Center (NOC) (w/m/d),Deutsche Glasfaser,IT-Stellen,"Borken, Borken (Kreis)",2025-05-14 22:11:02+00:00,0,0,0,0,0,1
+11834,Netzwerkspezialist Security (m/w/d) nächster Karriereschritt!,Peak One GmbH,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-14 15:55:30+00:00,75000,100000,permanent,1,0,0
+11835,IT-Sicherheitsbeauftragter (m/w/d),Peak One GmbH,IT-Stellen,"Weidenau, Siegen",2025-05-14 15:55:30+00:00,70000,90000,permanent,1,0,0
+11836,2 Tester (ISTQB zertifiziert)- 4 Monate - Remote - Start: ASAP,RED Global,IT-Stellen,Deutschland,2025-05-14 15:55:32+00:00,0,0,contract,0,1,0
+11837,Lead Engineer IP/MPLS (w/m/d),Deutsche Glasfaser,IT-Stellen,"Saarlouis, Saarlouis (Kreis)",2025-05-14 22:11:06+00:00,0,0,0,0,0,1
+11838,SAP Success Factors Consultant (m/w/d),Cavendish Professionals,IT-Stellen,Deutschland,2025-05-14 15:55:15+00:00,0,0,permanent,1,0,0
+11839,Information Security GRC Manager (m/w/d),Peak One GmbH,IT-Stellen,"Höxter (Kreis), Nordrhein-Westfalen",2025-05-14 15:55:30+00:00,60000,90000,permanent,1,0,0
+11840,Cyber Security Compliance Manager (m/w/d),Peak One GmbH,IT-Stellen,"Landsberg am Lech (Kreis), Bayern",2025-05-14 15:55:30+00:00,85000,105000,permanent,1,0,0
+11841,DevOps Engineer für Cloud- und On-Premises-Umgebungen (m/w/d),Computer Futures,IT-Stellen,"Bonn, Nordrhein-Westfalen",2025-05-14 15:55:35+00:00,80000,90000,permanent,1,0,0
+11842,Senior Marketing Manager bei Bosch CyberCompare (w/m/div.),Bosch Group,IT-Stellen,"Ludwigsburg, Ludwigsburg (Kreis)",2025-05-14 22:11:05+00:00,0,0,0,0,0,1
+11843,Informationssicherheitsbeauftragter (w/m/d),Peak One GmbH,IT-Stellen,"Zentrum, Bonn",2025-05-14 15:55:30+00:00,65000,80000,permanent,1,0,0
+11844,IT-Berater (m/w/d) dringend gesucht,RADAS Jobbörse & Personalvermittlung GmbH,IT-Stellen,"Innenstadt, Augsburg",2025-05-14 21:29:40+00:00,0,0,permanent,1,0,0
+11845,IT Security Specialist (m/w/d)- 37.5 Stundenwoche,Peak One GmbH,IT-Stellen,"Mitte, Dortmund",2025-05-14 15:55:30+00:00,70000,95000,permanent,1,0,0
+11846,Lead Engineer IP/MPLS (w/m/d),Deutsche Glasfaser,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-14 22:11:06+00:00,0,0,0,0,0,1
+11847,Teamleiter IT Operations (w/m/d) - 100% Remote aus Deutschland möglich,finanzen.net GmbH,IT-Stellen,"Mannheim, Baden-Württemberg",2025-05-14 10:10:32+00:00,0,0,0,0,0,1
+11848,Java-Softwareentwickler (m/w/d) dringend gesucht,RADAS Jobbörse & Personalvermittlung GmbH,IT-Stellen,"Wedding, Berlin",2025-05-14 21:29:40+00:00,0,0,permanent,1,0,0
+11849,IT Security Administrator (m/w/d),Peak One GmbH,IT-Stellen,"Eversburg, Osnabrück",2025-05-14 15:55:30+00:00,60000,85000,permanent,1,0,0
+11850,Rohrleitungsbauer (m/w/d),POHL-Gruppe,IT-Stellen,Deutschland,2025-05-14 14:31:22+00:00,0,0,0,0,0,1
+11851,SAP MM/Ariba Inhouse Berater (m/w/d),Peak One GmbH,IT-Stellen,"Schwedt/Oder, Uckermark (Kreis)",2025-05-14 15:55:30+00:00,70000,90000,permanent,1,0,0
+11852,Junior Digital Campaign Manager / AdOperations (m/w/d) - in Elternzeit Vertretung (Befristung 1 Jahr),finanzen.net GmbH,IT-Stellen,"Karlsruhe, Karlsruhe (Kreis)",2025-05-14 22:11:02+00:00,0,0,0,0,0,1
+11853,SAP EWM Consultant,Conexus DX Limited,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-14 15:55:36+00:00,0,0,permanent,1,0,0
+11854,SAP ABAP Developer (w/m/d),Peak One GmbH,IT-Stellen,"Leinfelden-Echterdingen, Esslingen (Kreis)",2025-05-14 15:55:30+00:00,70000,100000,permanent,1,0,0
+11855,IT Netzwerk- und Security Administrator (m/w/d),Peak One GmbH,IT-Stellen,"Vohwinkel, Wuppertal",2025-05-14 15:55:30+00:00,65000,85000,permanent,1,0,0
+11856,Mitarbeiter Rezeption (m/w/d) für Wohnungsloseneinrichtung,VITA e.V. Berlin,IT-Stellen,"Neukölln, Berlin",2025-05-14 02:05:04+00:00,0,0,0,0,0,1
+11857,Information Security Manager und ISMS Auditor (m/w/d),Kühne + Nagel  KG,IT-Stellen,"Hamburg, Deutschland",2025-05-14 19:34:06+00:00,0,0,0,0,0,1
+11858,IT-Inhouse Consultant SAP Logistik (m/w/d) – bis zu 100 % remote,ALBA Management GmbH,IT-Stellen,"Berlin, Deutschland",2025-05-14 19:34:07+00:00,0,0,0,0,0,1
+11859,(Senior) Software Engineer - Data & AI Platform - STACKIT (m/w/d),STACKIT,IT-Stellen,"Heilbronn, Heilbronn (Kreis)",2025-05-14 19:34:07+00:00,0,0,0,0,0,1
+11860,Unity C# Entwickler (m/w/d),Palette CAD AG,IT-Stellen,"Stuttgart, Baden-Württemberg",2025-05-14 19:34:06+00:00,0,0,0,0,0,1
+11861,Consultant Manufacturing IT/MES (w/m/d),CAPRON GmbH,IT-Stellen,"Neustadt in Sachsen, Sächsische Schweiz-Osterzgebirge (Kreis)",2025-05-14 19:32:52+00:00,0,0,0,0,0,1
+11862,Manager (m/w/d) Systemintegration und Verifikation für Kommunikationssysteme,Diehl Defence GmbH & Co. KG,IT-Stellen,Deutschland,2025-05-14 07:34:49+00:00,0,0,0,0,0,1
+11863,IT-Security Officer (m/w/d),Peak One GmbH,IT-Stellen,"Altstadt, Bremen",2025-05-14 15:55:30+00:00,70000,100000,permanent,1,0,0
+11864,Anwendungsmanager Finanzbuchhaltungssoftware (m/w/d),Bayerisches Rotes Kreuz Landesgeschäftsstelle,IT-Stellen,"München, München (Kreis)",2025-05-14 19:34:01+00:00,0,0,0,0,0,1
+11865,Manager Global Management Systems (m/w/d),FUCHS SE,IT-Stellen,"Mannheim, Baden-Württemberg",2025-05-14 19:35:02+00:00,0,0,0,0,0,1
+11866,Solution Developer (w/m/d),Element Logic Germany GmbH,IT-Stellen,"Stuttgart, Baden-Württemberg",2025-05-14 19:32:52+00:00,0,0,0,0,0,1
+11867,SAP ABAP Developer (w/m/d),Peak One GmbH,IT-Stellen,"Bruchsal, Karlsruhe (Kreis)",2025-05-14 15:55:29+00:00,70000,100000,permanent,1,0,0
+11868,Cloud and Application Engineer (m/f/x),Tipico Technology Services GmbH,IT-Stellen,"Karlsruhe, Karlsruhe (Kreis)",2025-05-14 22:11:05+00:00,0,0,0,0,0,1
+11869,IT-Engineer (m/w/d) zentrale IT – Linux und IAM,Secunet Security Networks AG,IT-Stellen,"Essen, Nordrhein-Westfalen",2025-05-14 19:34:57+00:00,0,0,0,0,0,1
+11870,SAP EWM (Senior) Consultant (m/w/d) bei der Noor Vision GmbH,Noor Vision GmbH,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-14 19:32:51+00:00,0,0,0,0,0,1
+11871,Regionaler IT Support (m/w/d),Doka Deutschland GmbH,IT-Stellen,Deutschland,2025-05-14 19:34:26+00:00,0,0,0,0,0,1
+11872,Erfahrener Machine Learning Engineer (m/w/d) im Bereich Klassifikation von Funksignalen,PROCITEC GmbH,IT-Stellen,"Pforzheim, Baden-Württemberg",2025-05-14 19:34:10+00:00,0,0,0,0,0,1
+11873,IT-Security Analyst (m/w/d),Sana Kliniken AG,IT-Stellen,"Ismaning, München (Kreis)",2025-05-14 19:34:34+00:00,0,0,0,0,0,1
+11874,Solution-Architect für PLM- & IoT-Softwarelösungen (m/w/d),CONTACT Software GmbH,IT-Stellen,Deutschland,2025-05-14 07:39:02+00:00,0,0,0,0,0,1
+11875,Cyber Defense Leader (m/f/d),METRO AG,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-14 10:10:33+00:00,0,0,0,0,0,1
+11876,Abschlussarbeit im Bereich Softwareentwicklung Tooling ab Juli 2025,Mercedes-Benz AG,IT-Stellen,"Sindelfingen, Böblingen (Kreis)",2025-05-14 19:34:09+00:00,0,0,0,0,0,1
+11877,IT-Supporter / IT-Service Desk / IT-Helpdesk (m/w/d),Hays – Working for your tomorrow,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-14 19:34:51+00:00,0,0,0,0,0,1
+11878,Backend Entwickler (m/w/d),Paychex Deutschland GmbH,IT-Stellen,"Hamburg, Deutschland",2025-05-14 07:38:54+00:00,0,0,0,0,0,1
+11879,IT-Application Manager*in Cyberark (PAM) (in Voll- oder Teilzeit),Union Investment,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-14 19:34:57+00:00,0,0,0,0,0,1
+11880,Junior-Softwareentwickler Java (m/w/d) für Remscheid,RADAS Jobbörse & Personalvermittlung GmbH,IT-Stellen,"Lennep, Remscheid",2025-05-14 21:29:40+00:00,0,0,permanent,1,0,0
+11881,Anwendungsbetreuer Klinischer Arbeitsplatz (m/w/d),Medical Park Amerang,IT-Stellen,"Amerang, Rosenheim (Kreis)",2025-05-14 19:36:37+00:00,0,0,0,0,0,1
+11882,Informatiker als Senior Solution Architect (m/w/d),hagebau IT GmbH,IT-Stellen,"Soltau, Soltau-Fallingbostel (Kreis)",2025-05-14 19:32:54+00:00,0,0,0,0,0,1
+11883,SAP SD Inhouse Berater (m/w/d),Peak One GmbH,IT-Stellen,"Hausen, Frankfurt am Main",2025-05-14 15:55:30+00:00,75000,95000,permanent,1,0,0
+11884,IT Architect (w/m/d),TÜV SÜD,IT-Stellen,"München, München (Kreis)",2025-05-14 19:32:53+00:00,0,0,0,0,0,1
+11885,Mitarbeiter (m/w/d) Produktmanagement im Public Sector,Hannoversche Informationstechnologien AöR ,IT-Stellen,"Calenberger Neustadt, Hannover",2025-05-14 16:31:29+00:00,0,0,0,0,0,1
+11886,Agile Coach (m/w/d),DACHSER SE,IT-Stellen,"Kempten (Allgäu), Bayern",2025-05-14 19:34:58+00:00,0,0,0,0,0,1
+11887,Softwareentwickler Java/ JEE (m/w/d) gesucht,RADAS Jobbörse & Personalvermittlung GmbH,IT-Stellen,"Altstadt, Mainz",2025-05-14 21:29:40+00:00,0,0,permanent,1,0,0
+11888,Systemadministrator / Technical Consultant* Business Central,MODUS Consult GmbH,IT-Stellen,"Gütersloh, Gütersloh (Kreis)",2025-05-14 19:34:04+00:00,0,0,0,0,0,1
+11889,Junior IT Sales Engineer (all genders) mit Fokus auf Cross- und Up-Selling,DATAGROUP,IT-Stellen,"Nürnberg, Bayern",2025-05-14 19:34:04+00:00,0,0,0,0,0,1
+11890,Konstrukteur (m/w/d),DIS AG,IT-Stellen,"Oelsnitz/Vogtland, Vogtlandkreis",2025-05-14 18:14:34+00:00,0,0,0,0,0,1
+11891,Cloud Network & Security Engineer (m/w/d),Arvato Systems GmbH,IT-Stellen,Deutschland,2025-05-14 19:32:54+00:00,0,0,0,0,0,1
+11892,Digital Product Developer (m/w/d),Saro GmbH,IT-Stellen,"Hechingen, Zollernalbkreis",2025-05-14 02:06:19+00:00,0,0,0,0,0,1
+11893,Anwendungsbetreuer (m/w/d),Kommunales Rechenzentrum Niederrhein,IT-Stellen,"Kamp-Lintfort, Wesel (Kreis)",2025-05-14 19:34:05+00:00,0,0,0,0,0,1
+11894,Softwareentwickler Embedded Microcontroller (m/w/d),ifm-Unternehmensgruppe,IT-Stellen,"Tettnang, Bodenseekreis",2025-05-14 07:39:18+00:00,0,0,0,0,0,1
+11895,Softwareingenieur / Techniker (m/w/d) Applikationstechnik,motan gmbh nord,IT-Stellen,Deutschland,2025-05-14 14:12:24+00:00,0,0,0,0,0,1
+11896,IT-Systemadministrator (m/w/d),Dürr Group Services GmbH,IT-Stellen,"Gengenbach, Ortenaukreis",2025-05-14 19:34:05+00:00,0,0,0,0,0,1
+11897,IT-Spezialist/in (w/m/d) – SAP SuccessFactors,DLR Deutsches Zentrum für Luft- und Raumfahrt e. V.,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-14 07:34:48+00:00,0,0,0,0,0,1
+11898,Systemingenieur (m/w/d),Hako GmbH,IT-Stellen,"Bad Oldesloe, Stormarn (Kreis)",2025-05-14 19:32:51+00:00,0,0,0,0,0,1
+11899,"Referent für IT, Auslagerung und Zahlungsverkehr (m/w/d) für unseren Bereich Grundsatz Prüfung",Genoverband e.V.,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-14 19:33:02+00:00,0,0,0,0,0,1
+11900,System Engineer / IT-Administrator für Active Directory & Exchange (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Unterhaching, München (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11901,IT Business Engineer Filialsysteme (m/w/d),Schwarz IT,IT-Stellen,"Weinsberg, Heilbronn (Kreis)",2025-05-14 14:01:20+00:00,0,0,0,0,0,1
+11902,(Senior) Product Owner mobile Apps (m/w/d),Heinrich Schmid Systemhaus GmbH,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-14 14:12:22+00:00,0,0,0,0,0,1
+11903,Specialist First-Level-Support (w/m/d),KIS GmbH & Co. KG,IT-Stellen,"Schönefeld, Leipzig",2025-05-14 19:34:05+00:00,0,0,0,0,0,1
+11904,Facharbeiter im Bereich Kabelleitungstiefbau (m/w/d),POHL-Gruppe,IT-Stellen,Deutschland,2025-05-14 14:31:21+00:00,0,0,0,0,0,1
+11905,Technischen Angestellten (m/w/d),Freisinger Stadtwerke,IT-Stellen,"Freising, Freising (Kreis)",2025-05-14 19:34:02+00:00,0,0,0,0,0,1
+11906,(Senior) Product Owner mobile Apps (m/w/d),Heinrich Schmid Systemhaus GmbH,IT-Stellen,"Mitte, Stuttgart",2025-05-14 14:12:49+00:00,0,0,0,0,0,1
+11907,Windows Systemadministrator (m/w/d) - System Engineer (m/w/d),Ratbacher GmbH,IT-Stellen,"Hagen, Segeberg (Kreis)",2025-05-14 07:39:08+00:00,0,0,0,0,0,1
+11908,Sales Manager (all genders) Remote,Yourfirm GmbH & Co. KG,IT-Stellen,Deutschland,2025-05-14 14:00:30+00:00,0,0,permanent,1,0,0
+11909,Duales Studium Informatik (B.Sc.) am virtuellen Campus - Homburg Marketing GmbH,IU Internationale Hochschule,IT-Stellen,"Dortmund, Nordrhein-Westfalen",2025-05-14 19:34:04+00:00,0,0,0,0,0,1
+11910,Teamleitung Patientendatenmanagement (w/m/d) für das Regionale Netz GT/PB,LWL-Klinikum Gütersloh,IT-Stellen,"Innenstadt, Gütersloh",2025-05-14 12:10:46+00:00,0,0,0,0,0,1
+11911,IT-Anwendungsbetreuer / Systemadministrator (m/w/d),HAPEKO Deutschland GmbH,IT-Stellen,"Hamm, Marl",2025-05-14 19:34:58+00:00,0,0,0,0,0,1
+11912,Informationssicherheitsbeauftragter (ISB) (m/w/d),DZR Deutsches Zahnärztliches Rechenzentrum GmbH - Dr. Güldener Gruppe,IT-Stellen,"Stuttgart, Baden-Württemberg",2025-05-14 19:32:50+00:00,0,0,0,0,0,1
+11913,Softwareentwickler/-in (m/w/d) mit Perspektive zum Teamleiter/-in (m/w/d),MKN Maschinenfabrik Kurt Neubauer GmbH & Co. KG,IT-Stellen,"Wolfenbüttel, Wolfenbüttel (Kreis)",2025-05-14 19:32:53+00:00,0,0,0,0,0,1
+11914,Senior Consultant SAP SD/MM (m/w/d),Bertelsmann Global Business Services GmbH,IT-Stellen,"Rheda-Wiedenbrück, Gütersloh (Kreis)",2025-05-14 07:34:47+00:00,0,0,0,0,0,1
+11915,Marketplace Operations Manager (Cloud Service Providers),Palo Alto Networks,IT-Stellen,Deutschland,2025-05-14 12:23:59+00:00,0,0,0,0,0,1
+11916,Softwareentwickler (m/w/d) mit Schwerpunkt Cybersecurity,Beckhoff Automation GmbH & Co. KG,IT-Stellen,"Verl, Gütersloh (Kreis)",2025-05-14 14:01:21+00:00,0,0,0,0,0,1
+11917,Founder's Associate Intern (f/m/x) (Earliest start date: September 2025),Tanso Technologies,IT-Stellen,Deutschland,2025-05-14 22:05:47+00:00,0,0,contract,0,1,0
+11918,Stellvertretender Leiter IT / Leiter Infrastruktur (m/w/d),Werner Sobek Stuttgart GmbH,IT-Stellen,"Mitte, Stuttgart",2025-05-14 14:12:49+00:00,0,0,0,0,0,1
+11919,Hardware-Developer (w/d/m) Vollzeitkraft,RADAS Jobbörse & Personalvermittlung GmbH,IT-Stellen,"Lennep, Remscheid",2025-05-14 21:29:40+00:00,0,0,permanent,1,0,0
+11920,IT-Consultant (m/w/d) in der Wirtschaftsprüfung in Erfurt,Becker Büttner Held Rechtsanwälte · Steuerberater · Unternehmensberater | PartGmbB,IT-Stellen,"Brühlervorstadt, Erfurt",2025-05-14 13:21:44+00:00,0,0,0,0,0,1
+11921,MES Application Specialist - Administration & Support (m/w/d),Liebherr-EMtec GmbH,IT-Stellen,"Kirchdorf, Mühldorf am Inn (Kreis)",2025-05-14 19:32:56+00:00,0,0,0,0,0,1
+11922,"Quereinstieg zum (Junior) Web-Entwickler - 100% remote, ohne Vorkenntnisse (m/w/d/)",S Institut für Aus- und Weiterbildung,IT-Stellen,"Mitte, Ulm",2025-05-14 21:26:47+00:00,0,0,permanent,1,0,0
+11923,Senior Manager – Operations,Helsing,IT-Stellen,Deutschland,2025-05-14 21:38:42+00:00,0,0,0,0,0,1
+11924,Anwendungsentwickler (m/w/d) Dokumentenentwicklung,ivv GmbH,IT-Stellen,"Bult, Hannover",2025-05-14 14:11:55+00:00,0,0,0,0,0,1
+11925,Service Process Coordinator / Key User (w/m/d),Element Logic Germany GmbH,IT-Stellen,"Bad Friedrichshall, Heilbronn (Kreis)",2025-05-14 14:11:31+00:00,0,0,0,0,0,1
+11926,IT Cloud Engineer (m/w/d),Bauerfeind AG,IT-Stellen,"Zeulenroda-Triebes, Greiz (Kreis)",2025-05-14 06:00:24+00:00,0,0,permanent,1,0,0
+11927,System Engineer / IT-Administrator für Active Directory & Exchange (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Riedering, Rosenheim (Kreis)",2025-05-14 17:20:45+00:00,0,0,0,0,0,1
+11928,Programmierer (m/w/d) Blechbearbeitungsmaschine TruPunch 5000,Bühler GmbH,IT-Stellen,"Beilngries, Eichstätt (Kreis)",2025-05-14 19:32:53+00:00,0,0,0,0,0,1
+11929,Ausbildung Fachinformatiker der Fachrichtung Anwendungsentwicklung (m/w/d),Logicall SCS GmbH,IT-Stellen,"Duisburg, Nordrhein-Westfalen",2025-05-14 19:34:01+00:00,0,0,0,0,0,1
+11930,Planer Netzbau m/w/d,SPIE Germany Switzerland Austria,IT-Stellen,"Mildensee, Dessau-Roßlau",2025-05-14 06:02:50+00:00,0,0,0,0,0,1
+11931,"Quereinstieg zum (Junior) Web-Entwickler - 100% remote, ohne Vorkenntnisse (m/w/d/)",S Institut für Aus- und Weiterbildung,IT-Stellen,"Altstadt, Duisburg",2025-05-14 21:26:49+00:00,0,0,permanent,1,0,0
+11932,(Senior) Product Owner mobile Apps (m/w/d),Heinrich Schmid Systemhaus GmbH,IT-Stellen,"Altstadt-Lehel, München",2025-05-14 14:12:22+00:00,0,0,0,0,0,1
+11933,System Engineer / IT-Administrator für Active Directory & Exchange (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Wolfratshausen, Bad Tölz-Wolfratshausen (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11934,"Quereinstieg zum (Junior) Web-Entwickler - 100% remote, ohne Vorkenntnisse (m/w/d/)",S Institut für Aus- und Weiterbildung,IT-Stellen,"Rüttenscheid, Essen",2025-05-14 21:26:49+00:00,0,0,permanent,1,0,0
+11935,Consultant im Bereich E-Procurement (w/m/d),Inway Systems,IT-Stellen,"Ludwigsfeld, Neu-Ulm",2025-05-14 12:22:05+00:00,0,0,0,0,0,1
+11936,Praktikant:in / Werkstudent:in Corporate Strategy – Executive Support (w/m/d),JTL-Software,IT-Stellen,Deutschland,2025-05-14 22:09:05+00:00,0,0,0,0,0,1
+11937,System Engineer für Netzwerk & Security (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Raubling, Rosenheim (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11938,"Software-Engineer (m/w/d) Human Machine Interface, Qt/QML",Wirtgen GmbH,IT-Stellen,"Windhagen, Neuwied (Kreis)",2025-05-14 14:12:50+00:00,0,0,0,0,0,1
+11939,IT-Mitarbeiter/ -in für Server-Betrieb (m/w/d) (CIT2025-04),Technische Universität München,IT-Stellen,"Böckingen, Heilbronn",2025-05-14 14:11:30+00:00,0,0,0,0,0,1
+11940,Mitarbeiter Digitale Transformation im Property / CREM Umfeld (w/m/d),KPMG,IT-Stellen,"Moabit, Berlin",2025-05-14 20:41:58+00:00,0,0,permanent,1,0,0
+11941,Scrum Master (m/w/d),HGV Hanseatische Gesellschaft für Verlagsservice mbH,IT-Stellen,"Hamburg, Deutschland",2025-05-14 07:39:11+00:00,0,0,0,0,0,1
+11942,Senior Network & Security Engineer (m/w/d),Peak One GmbH,IT-Stellen,"Blumenberg, Köln",2025-05-14 15:55:30+00:00,75000,90000,permanent,1,0,0
+11943,Fachberater Einmalbeitrag Vertriebsdirektion Süd (m/w/d),AXA Konzern AG,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-14 19:34:03+00:00,0,0,0,0,0,1
+11944,System Architect (m/w/d) - Digitalisierungsprojekte bei Streitkräften,Rheinmetall Electronics GmbH,IT-Stellen,"Bremen, Deutschland",2025-05-14 19:32:52+00:00,0,0,0,0,0,1
+11945,System Engineer für Netzwerk & Security (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Altötting, Altötting (Kreis)",2025-05-14 17:20:45+00:00,0,0,0,0,0,1
+11946,SAP MM Consultant (m/w/d),BAUHAUS,IT-Stellen,"Mannheim, Baden-Württemberg",2025-05-14 19:35:07+00:00,0,0,0,0,0,1
+11947,"Quereinstieg zum (Junior) Web-Entwickler - 100% remote, ohne Vorkenntnisse (m/w/d/)",S Institut für Aus- und Weiterbildung,IT-Stellen,"Innenstadt, Neubrandenburg",2025-05-14 21:26:49+00:00,0,0,permanent,1,0,0
+11948,System Engineer / IT-Administrator für Active Directory & Exchange (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Raubling, Rosenheim (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11949,Netzmonteur:in Gas/Wasser/Wärme (m/w/d),NEW Netz GmbH,IT-Stellen,"Viersen, Viersen (Kreis)",2025-05-14 19:34:54+00:00,0,0,0,0,0,1
+11950,Servicetechniker / Mechatroniker (m/w/d),Leasotec GmbH,IT-Stellen,"Bietigheim-Bissingen, Ludwigsburg (Kreis)",2025-05-14 17:19:50+00:00,0,0,permanent,1,0,0
+11951,Sachbearbeiter*in (m/w/d),Stadt Bad Harzburg,IT-Stellen,"Bad Harzburg, Goslar (Kreis)",2025-05-14 14:04:23+00:00,0,0,0,0,0,1
+11952,SPS-Programmierer (m/w/d),Conditorei Coppenrath & Wiese KG,IT-Stellen,"Mettingen, Esslingen am Neckar",2025-05-14 19:34:27+00:00,0,0,0,0,0,1
+11953,IT-Systemadministrator / Netzwerkadministrator (m/w/d),NLB - Neue Landbuch GmbH Gesellschaft für moderne Datenverarbeitung & Co. KG,IT-Stellen,"Verden (Aller), Verden (Kreis)",2025-05-14 14:01:38+00:00,0,0,0,0,0,1
+11954,Projektmanager IT / Applikation für IT-Unternehmen (m/w/d),HAPEKO Deutschland GmbH,IT-Stellen,Deutschland,2025-05-14 19:34:04+00:00,0,0,0,0,0,1
+11955,Working Student - Data Scientist and Process Mining Architect,Process& GmbH,IT-Stellen,Deutschland,2025-05-14 20:39:04+00:00,0,0,0,0,0,1
+11956,Softwareentwickler (m/w/d),Stellen bei Pagero,IT-Stellen,"Langenfeld (Rheinland), Mettmann (Kreis)",2025-05-14 21:37:54+00:00,0,0,0,0,0,1
+11957,Ausbildung Mechatroniker (m/w/d) ab 01.09.2025,ROMA KG,IT-Stellen,"Gehlsdorf, Rostock",2025-05-14 06:02:45+00:00,0,0,0,0,0,1
+11958,Anwendungsbetreuer BALY-Software (w/m/d) Vollzeit / Teilzeit,BALY GmbH,IT-Stellen,"Brühlervorstadt, Erfurt",2025-05-14 06:00:18+00:00,0,0,0,0,0,1
+11959,Data Lake & Analytics Systemmanager (m/w/d),Techniker Krankenkasse,IT-Stellen,Deutschland,2025-05-14 14:11:53+00:00,0,0,0,0,0,1
+11960,Senior System Engineer - Betrieb SharePoint Plattform (m/w/d),BWI GmbH,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-14 19:33:01+00:00,0,0,0,0,0,1
+11961,Softwareentwickler Client Fokus Qt (m/w/d),CipSoft GmbH,IT-Stellen,"Großprüfening-Dechbetten-Königswiesen, Regensburg",2025-05-14 18:04:25+00:00,0,0,permanent,1,0,0
+11962,Werkstudent (m/w/d) IT-Security,Wichmann IT-Services,IT-Stellen,Deutschland,2025-05-14 20:40:14+00:00,33280,33280,0,0,0,1
+11963,Vertriebsmitarbeiter/in Innendienst (m/w/d) Outbound,univativ GmbH,IT-Stellen,"Hattersheim am Main, Main-Taunus-Kreis",2025-05-14 12:25:40+00:00,38000,42000,0,0,0,1
+11964,Werkstudent IT(m/w/d),betapharm Arzneimittel GmbH,IT-Stellen,Deutschland,2025-05-14 20:47:25+00:00,0,0,0,0,0,1
+11965,Senior Fullstack Entwickler C# (m/w/d) - Fullstack Developer,Ratbacher GmbH,IT-Stellen,"Dortmund, Nordrhein-Westfalen",2025-05-14 07:34:47+00:00,0,0,0,0,0,1
+11966,Experte für Data Governance (w/m/d),ORDIX AG,IT-Stellen,"Gebersdorf, Nürnberg",2025-05-14 21:26:48+00:00,0,0,permanent,1,0,0
+11967,Professional Software Engineer (w/m/d) [C- TIEE 2370379],EnBW Energie Baden-Württemberg AG,IT-Stellen,"Karlsruhe, Karlsruhe (Kreis)",2025-05-14 19:34:02+00:00,0,0,0,0,0,1
+11968,Python Full-Stack-Developer (m/w/d) mit Django-Erfahrung,HOGAPAGE Media GmbH,IT-Stellen,"Innenstadt, Augsburg",2025-05-14 14:12:24+00:00,0,0,0,0,0,1
+11969,Werkstudent SAP Management & Business Administration (m/w/d),AXA,IT-Stellen,"Buchheim, Köln",2025-05-14 15:50:43+00:00,0,0,contract,0,1,0
+11970,Senior Software Developer,472,IT-Stellen,Deutschland,2025-05-14 21:52:31+00:00,0,0,0,0,0,1
+11971,System Engineer / IT-Administrator für Active Directory & Exchange (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Reitmehring, Rosenheim (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11972,Cloud Systems Engineer (w/m/d),"Landesamt für Digitalisierung, Breitband und Vermessung, IT-Dienstleistung",IT-Stellen,"München, München (Kreis)",2025-05-14 19:34:03+00:00,0,0,0,0,0,1
+11973,System Engineer für Netzwerk & Security (m/w/d),"Klinik, Prien am Chiemsee, Bayern, DE, 83209",IT-Stellen,"Herrenchiemsee, Rosenheim (Kreis)",2025-05-14 17:20:46+00:00,0,0,0,0,0,1
+11974,IT-Systemelektroniker (m/w/d),think about IT GmbH,IT-Stellen,Deutschland,2025-05-14 20:47:23+00:00,0,0,0,0,0,1
+11975,On-Site Services IT Support in Teilzeit (w/m/d),EY Corporate Solutions GmbH & Co. KG,IT-Stellen,"Freiburg (Elbe), Stade (Kreis)",2025-05-14 19:34:04+00:00,0,0,0,0,0,1
+11976,Schweißer / Konstruktionsmechaniker (m/w/d),AGROTooling Systems GmbH,IT-Stellen,"Bad Essen, Osnabrück (Kreis)",2025-05-14 14:01:19+00:00,0,0,0,0,0,1
+11977,Referent Kfz-Technik / Mobility (w/m/d),Gesamtverband der Deutschen Versicherungswirtschaft e.V.,IT-Stellen,"Berlin, Deutschland",2025-05-14 07:32:51+00:00,0,0,0,0,0,1
+11978,Vorarbeiter im Kabelleitungstiefbau (m/w/d),POHL-Gruppe,IT-Stellen,Deutschland,2025-05-14 14:31:22+00:00,0,0,0,0,0,1
+11979,Global IT Sourcing Specialist (m/w/d),Leadec Management Central Europe BV & Co. KG,IT-Stellen,Deutschland,2025-05-14 06:03:19+00:00,0,0,0,0,0,1
+11980,Senior Developer (f/m/x) - Corporate Bank Technology - Merchant Solutions,Deutsche Bank,IT-Stellen,Deutschland,2025-05-14 21:58:07+00:00,0,0,0,0,0,1
+11981,Senior Systems Engineer (m/w/d) – Mainframe Produktionssteuerung (m/w/d),BWI GmbH,IT-Stellen,Deutschland,2025-05-18 19:35:16+00:00,0,0,0,0,0,1
+11982,Systemfachkraft (m/w/d) Dokumentation Innendienst,Regionetz GmbH,IT-Stellen,Deutschland,2025-05-18 19:33:14+00:00,0,0,0,0,0,1
+11983,Fachinformatiker / IT-Administrator (m/w/d),CONDOK GmbH,IT-Stellen,"Kiel, Schleswig-Holstein",2025-05-18 19:33:17+00:00,0,0,0,0,0,1
+11984,Mitarbeiter (m/w/d) Technischer Service im Außendienst | Servicetechniker (m/w/d) | Großraum Frankfurt,Huth Elektronik Systeme GmbH,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-18 19:34:38+00:00,0,0,0,0,0,1
+11985,Solution & Applications Architect (m/w/d),SAF-HOLLAND GmbH,IT-Stellen,"Bessenbach, Aschaffenburg (Kreis)",2025-05-18 07:31:59+00:00,0,0,0,0,0,1
+11986,IT Spezialist Audit /Qualitätsmanagement (m/w/x),Arvato Media GmbH,IT-Stellen,"Gütersloh, Gütersloh (Kreis)",2025-05-18 07:32:16+00:00,0,0,0,0,0,1
+11987,IT-Consultant Customer Solutions (m/w/d),imos AG,IT-Stellen,Deutschland,2025-05-18 07:32:46+00:00,0,0,0,0,0,1
+11988,IT-Security-Architect (m/w/d),PSI Software SE Grid & Energy Management,IT-Stellen,"Aachen, Aachen (Kreis)",2025-05-18 19:35:06+00:00,0,0,0,0,0,1
+11989,SAP BTP Consultant (m/w/d),COMLINE Computer + Softwarelösungen SE,IT-Stellen,"Nordrhein-Westfalen, Deutschland",2025-05-18 19:34:53+00:00,0,0,0,0,0,1
+11990,Systementwickler - Signalerfassung & Datenauswertung (m/w/d),Rheinmetall Electronics GmbH,IT-Stellen,"Bremen, Deutschland",2025-05-18 07:32:51+00:00,0,0,0,0,0,1
+11991,Spezialist*in IT-Sicherheit (m/w/d),Energiequelle GmbH,IT-Stellen,Deutschland,2025-05-18 07:31:50+00:00,0,0,0,0,0,1
+11992,"Projektleiter Netzwerk (m/w/d) IT & Automatisierung, IT-Infrastruktur",ArcelorMittal Eisenhüttenstadt GmbH,IT-Stellen,"Eisenhüttenstadt, Oder-Spree (Kreis)",2025-05-18 19:35:08+00:00,0,0,0,0,0,1
+11993,Senior Programmierer,KOCH Industrieanlagen GmbH,IT-Stellen,"Dernbach, Neuwied (Kreis)",2025-05-18 07:32:26+00:00,0,0,0,0,0,1
+11994,Industrial Cyber Security Officer*,Harting Electronics GmbH,IT-Stellen,"Espelkamp, Minden-Lübbecke (Kreis)",2025-05-18 19:34:27+00:00,0,0,0,0,0,1
+11995,Mitarbeiterin/Mitarbeiter (m/w/d) im Bereich IT-Administration,Generalzolldirektion,IT-Stellen,"Rostock, Mecklenburg-Vorpommern",2025-05-18 19:34:22+00:00,0,0,0,0,0,1
+11996,(Senior) IT-Auditor / IT-Prüfer (m/w/d),AWADO GmbH,IT-Stellen,Deutschland,2025-05-18 07:33:38+00:00,0,0,0,0,0,1
+11997,IT Experte - Inhouse Berater für SAP (m/w/d) Bamberg,Trench Germany GmbH,IT-Stellen,"Bamberg, Bamberg (Kreis)",2025-05-18 19:35:22+00:00,0,0,0,0,0,1
+11998,Werkstudent Softwareentwicklung (m/w/d),Rheinmetall,IT-Stellen,"Penzberg, Weilheim-Schongau (Kreis)",2025-05-18 19:35:09+00:00,0,0,0,0,0,1
+11999,Duales Studium Wirtschaftsingenieurwesen im Facility Management am Standort Bad Wimpfen,Lidl Dienstleistung GmbH & Co. KG,IT-Stellen,Deutschland,2025-05-18 07:31:35+00:00,0,0,0,0,0,1
+12000,Entwickler Java Boomi (m/w/d),abcfinance GmbH,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-18 19:34:53+00:00,0,0,0,0,0,1
+12001,Senior Projektmanager - SAP S/4HANA (w/m/d),Schwarz Produktion Stiftung & Co. KG,IT-Stellen,Deutschland,2025-05-18 07:31:53+00:00,0,0,0,0,0,1
+12002,Senior Softwareentwickler – Semiconductor Optics C# (m/w/x),ZEISS,IT-Stellen,"Oberkochen, Ostalbkreis",2025-05-18 07:44:47+00:00,0,0,0,0,0,1
+12003,Salesforce Technical Business Analyst (m/w/d),BELFOR Europe GmbH,IT-Stellen,"Duisburg, Nordrhein-Westfalen",2025-05-18 19:34:52+00:00,0,0,0,0,0,1
+12004,Manager IMS (m/w/d) Integriertes Managementsystem mit Schwerpunkt Nachhaltigkeit,BLG Logistics Group AG & Co. KG,IT-Stellen,"Bremerhaven, Bremen",2025-05-18 07:38:54+00:00,0,0,0,0,0,1
+12005,Technischer Consultant für Daten- und Prozessintegration (m/w/d),CANCOM SE,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-18 19:34:41+00:00,0,0,0,0,0,1
+12006,IT Servicetechniker DACH Region (w/m/d),Bechtle GmbH - Hamburg,IT-Stellen,Deutschland,2025-05-18 19:35:03+00:00,0,0,0,0,0,1
+12007,IT Expert Military IT – Serverbasierte Führungsinformationssysteme (m/w/d),BWI GmbH,IT-Stellen,Deutschland,2025-05-18 19:35:13+00:00,0,0,0,0,0,1
+12008,IT Systemadministrator (m/w/d),FACT IT GmbH,IT-Stellen,"Kamp-Lintfort, Wesel (Kreis)",2025-05-18 07:32:29+00:00,0,0,0,0,0,1
+12009,Head of IT Operations (m/w/d),Elevion GmbH,IT-Stellen,"Jena, Thüringen",2025-05-18 19:35:15+00:00,0,0,0,0,0,1
+12010,Mitarbeiter Vertrieb - Stammdatenpflege / SAP / CRM (m/w/d),bott GmbH & Co. KG,IT-Stellen,"Gaildorf, Schwäbisch Hall (Kreis)",2025-05-18 07:33:16+00:00,0,0,0,0,0,1
+12011,Senior IT-Systemadministrator - Schwerpunkt Microsoft (m/w/d) in Vollzeit,Elevion GmbH,IT-Stellen,"Dietzenbach, Offenbach (Kreis)",2025-05-18 19:45:16+00:00,0,0,0,0,0,1
+12012,Mitarbeiter Videoüberwachung (w/m/d) im Alarm-Center,Kooi Security Deutschland GmbH,IT-Stellen,Deutschland,2025-05-18 19:49:21+00:00,0,0,0,0,0,1
+12013,SAP Consultant Stammdaten (m/w/d),BAUHAUS,IT-Stellen,"Mannheim, Baden-Württemberg",2025-05-18 19:34:52+00:00,0,0,0,0,0,1
+12014,"SAP Inhouse Consultant (m/w/d), Schwerpunkt FSM – Field Service Management – in Voll- oder Teilzeit",Techem Energy Services GmbH,IT-Stellen,"Eschborn, Main-Taunus-Kreis",2025-05-18 19:49:37+00:00,0,0,0,0,0,1
+12015,ERP-Berater/Software Consultant (m/w/d),HAPEKO Deutschland GmbH,IT-Stellen,"Dortmund, Nordrhein-Westfalen",2025-05-18 19:35:09+00:00,0,0,0,0,0,1
+12016,Embedded Softwareentwickler (m/w/d),Metronix Meßgeräte und Elektronik GmbH,IT-Stellen,"Braunschweig, Niedersachsen",2025-05-18 19:41:36+00:00,0,0,0,0,0,1
+12017,SAP Senior Integration Consultant (m/w/d),BAUHAUS,IT-Stellen,"Mannheim, Baden-Württemberg",2025-05-18 19:33:41+00:00,0,0,0,0,0,1
+12018,Senior Software Developer Circular Economy (m/w/d) - remote,PROLOGA GmbH,IT-Stellen,Deutschland,2025-05-18 07:31:48+00:00,0,0,0,0,0,1
+12019,Customer Application Engineer (m/w/d) - Automatisierungstechnik,OPTIMA pharma GmbH,IT-Stellen,"Schwäbisch Hall, Schwäbisch Hall (Kreis)",2025-05-18 07:44:56+00:00,0,0,0,0,0,1
+12020,Senior Entwickler für Objektive (m/w/x) - befristet für 2 Jahre,ZEISS,IT-Stellen,"Jena, Thüringen",2025-05-18 07:32:33+00:00,0,0,0,0,0,1
+12021,Solution Architect Cybersecurity (m/w/d),Stromnetz Berlin GmbH,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:34:31+00:00,0,0,0,0,0,1
+12022,IT-Projektleiter:in / Integrationsmanager (m/w/d),SOLCOM GmbH,IT-Stellen,"Reutlingen, Reutlingen (Kreis)",2025-05-18 19:34:55+00:00,0,0,0,0,0,1
+12023,"Sales Manager, Software Public Sector mit Entwicklung zum Vertriebsleiter (m/w/d)",Hays – Working for your tomorrow,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-18 19:41:43+00:00,0,0,0,0,0,1
+12024,Senior Product Owner / Technical Service Owner (w/m/d),HUK-COBURG Versicherungsgruppe,IT-Stellen,"Coburg, Coburg (Kreis)",2025-05-18 07:10:24+00:00,0,0,0,0,0,1
+12025,OpenWRT Entwickler*in,ENQT GmbH,IT-Stellen,"Hamburg, Deutschland",2025-05-18 07:39:00+00:00,0,0,0,0,0,1
+12026,IT-Administrator (m/w/d),Arevipharma GmbH,IT-Stellen,"Radebeul, Meißen (Kreis)",2025-05-18 19:34:55+00:00,0,0,0,0,0,1
+12027,Spezialist*in IT- Schwerpunkt M365 (w/m/d),GLS Gemeinschaftsbank eG,IT-Stellen,"Bochum, Nordrhein-Westfalen",2025-05-18 19:45:38+00:00,0,0,0,0,0,1
+12028,IT-Systemadministrator (m/w/d),F. G. Streifeneder KG,IT-Stellen,"Emmering, Fürstenfeldbruck (Kreis)",2025-05-18 19:34:57+00:00,0,0,0,0,0,1
+12029,Technical Support Manager POS (m/f/d),RS2 Germany GmbH,IT-Stellen,"Neu-Isenburg, Offenbach (Kreis)",2025-05-18 19:35:12+00:00,0,0,0,0,0,1
+12030,Systemadministrator:in (w/m/d) mit Qualifizierung zum:zur SAP Systembetreuer:in,Technische Universität Darmstadt,IT-Stellen,"Darmstadt, Hessen",2025-05-18 19:35:02+00:00,0,0,0,0,0,1
+12031,"Field Application Specialist (w,m,d)",Bio-Rad Laboratories GmbH,IT-Stellen,"München, München (Kreis)",2025-05-18 19:35:05+00:00,0,0,0,0,0,1
+12032,Mitarbeiterin bzw. Mitarbeiter (m/w/d) Projektmanagement-Office IT-Referat,Finanzbehörde Steuerverwaltung,IT-Stellen,"Hamburg, Deutschland",2025-05-18 19:41:43+00:00,0,0,0,0,0,1
+12033,Softwareentwickler:in,eXXcellent solutions GmbH,IT-Stellen,"Darmstadt, Hessen",2025-05-18 19:41:29+00:00,0,0,0,0,0,1
+12034,Projekt- & Prozessmanager (w/m/d) - Abteilung Digital & IT,Zech Management GmbH,IT-Stellen,"Bremen, Deutschland",2025-05-18 19:34:47+00:00,0,0,0,0,0,1
+12035,Werkstudententätigkeit im Bereich DevOps für Software-in-the-Loop ab Juli 2025,Mercedes-Benz AG,IT-Stellen,"Sindelfingen, Böblingen (Kreis)",2025-05-18 07:38:39+00:00,0,0,0,0,0,1
+12036,ERP Projektmanager (m/w/d),SARIA International GmbH,IT-Stellen,"Selm, Unna (Kreis)",2025-05-18 19:43:30+00:00,0,0,0,0,0,1
+12037,Sachbearbeitung /m/w/d) IT Support 2nd Level,Stadt Bietigheim-Bissingen,IT-Stellen,"Bietigheim-Bissingen, Ludwigsburg (Kreis)",2025-05-18 19:35:03+00:00,0,0,0,0,0,1
+12038,Experte im Zentralen Sourcing Management (w/m/d),Landesbank Hessen-Thüringen,IT-Stellen,"Offenbach am Main, Hessen",2025-05-18 19:34:53+00:00,0,0,0,0,0,1
+12039,Praktikum Data Analytics & Digitalisierung,Lidl Stiftung & Co. KG,IT-Stellen,"Neckarsulm, Heilbronn (Kreis)",2025-05-18 19:42:36+00:00,0,0,0,0,0,1
+12040,Ausbildung zum/zur Fachinformatiker/in für Systemintegration für das Ausbildungsjahr 2025,Technologiezentrum Glehn GmbH,IT-Stellen,"Korschenbroich, Rhein-Kreis Neuss",2025-05-18 19:41:35+00:00,0,0,0,0,0,1
+12041,Payroll Spezialist SAP HCM (w/m/d),RTL Deutschland GmbH,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-18 07:32:31+00:00,0,0,0,0,0,1
+12042,Consultant IT Device Management - Manufacturing IT (m/w/x),ZEISS,IT-Stellen,"Wetzlar, Lahn-Dill-Kreis",2025-05-18 07:43:14+00:00,0,0,0,0,0,1
+12043,Senior Architekt Embedded Elektronik Entwicklung (m/w/x),ZEISS,IT-Stellen,"Oberkochen, Ostalbkreis",2025-05-18 07:32:01+00:00,0,0,0,0,0,1
+12044,Senior Projektleiter Software Entwicklung Optics - in Voll- oder Teilzeit (m/w/x),ZEISS,IT-Stellen,"Oberkochen, Ostalbkreis",2025-05-18 07:32:18+00:00,0,0,0,0,0,1
+12045,Duales Studium Allgemeine Informatik / Cyber Security Bachelor of Science (m/w/d) Start: 2025,TransnetBW GmbH,IT-Stellen,"Stuttgart, Baden-Württemberg",2025-05-18 19:45:06+00:00,0,0,0,0,0,1
+12046,IT-Security-Engineer (m/w/d),PSI Software SE Grid & Energy Management,IT-Stellen,"Aachen, Aachen (Kreis)",2025-05-18 19:45:09+00:00,0,0,0,0,0,1
+12047,Senior Full-Stack Developer (m/w/d),SMC Deutschland GmbH,IT-Stellen,Deutschland,2025-05-18 19:35:33+00:00,0,0,0,0,0,1
+12048,Mitarbeiter Benutzerservice (m/w/d),DZ PRIVATBANK S.A.,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-18 19:34:55+00:00,0,0,0,0,0,1
+12049,System Engineer / IT Consultant – Omnissa Workspace ONE (m/w/d),SVA System Vertrieb Alexander GmbH,IT-Stellen,"Aachen, Aachen (Kreis)",2025-05-18 19:41:38+00:00,0,0,0,0,0,1
+12050,Business Analyst (m/w/d) Sales/ Vertrieb,Getränke Hoffmann GmbH,IT-Stellen,Deutschland,2025-05-18 14:05:54+00:00,0,0,0,0,0,1
+12051,SAP Berechtigungsadministrator (m/w/d),Alfred Kärcher SE & Co. KG,IT-Stellen,Deutschland,2025-05-18 19:34:22+00:00,0,0,0,0,0,1
+12052,Manager IT-Controlling (w/m/d),EnBW Energie Baden-Württemberg AG,IT-Stellen,"Karlsruhe, Karlsruhe (Kreis)",2025-05-18 19:41:47+00:00,0,0,0,0,0,1
+12053,Applikationsspezialist:in / Consultant (m/w/d) klinische Arbeitsplatzsysteme – Patientendatenadministration (ambulant und stationär),Dedalus HealthCare GmbH,IT-Stellen,Deutschland,2025-05-18 19:35:14+00:00,0,0,0,0,0,1
+12054,Praktikum IT - Integration Google Workspace,Lidl Stiftung & Co. KG,IT-Stellen,"Neckarsulm, Heilbronn (Kreis)",2025-05-18 19:35:11+00:00,0,0,0,0,0,1
+12055,Softwareentwickler Sondermaschinenbau (m/w/d),Herbert Hänchen GmbH,IT-Stellen,"Ostfildern, Esslingen (Kreis)",2025-05-18 19:41:23+00:00,0,0,0,0,0,1
+12056,IT Service Manager:in Change and Release Management,Hannover Rück SE,IT-Stellen,"Hannover, Region Hannover (Kreis)",2025-05-18 19:49:44+00:00,0,0,0,0,0,1
+12057,Systems Engineer (m/w/d) für Batterieumrichter,Rolls-Royce Power Systems AG,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:45:35+00:00,0,0,0,0,0,1
+12058,Senior Prozessintegrator (w/m/div.),Bosch Gruppe,IT-Stellen,"Dresden, Sachsen",2025-05-18 07:38:47+00:00,0,0,0,0,0,1
+12059,Senior IT-Servicetechniker (m/w/d),BWI GmbH,IT-Stellen,"Wunstorf, Region Hannover (Kreis)",2025-05-18 19:35:32+00:00,0,0,0,0,0,1
+12060,Salesforce Entwickler (m/w/d),pflege.de I web care LBJ GmbH,IT-Stellen,"Hamburg, Deutschland",2025-05-18 19:43:36+00:00,0,0,0,0,0,1
+12061,IT-Servicedesk-Mitarbeiter (m/w/d),NVL B.V. & Co. KG,IT-Stellen,"Hamburg, Deutschland",2025-05-18 19:41:44+00:00,0,0,0,0,0,1
+12062,(Senior) Softwareentwickler JAVA (w/m/d),PRODATO Integration Technology GmbH,IT-Stellen,"Nürnberg, Bayern",2025-05-18 19:34:44+00:00,0,0,0,0,0,1
+12063,SAP Inhouse Consultant – SD/LE-WM (m/w/d),Vitrulan Textile Glass GmbH,IT-Stellen,"Marktschorgast, Kulmbach (Kreis)",2025-05-18 19:35:28+00:00,0,0,0,0,0,1
+12064,Projektleiter (w/m/d) Infrastruktur und Straße,Drees & Sommer SE,IT-Stellen,"Hamburg, Deutschland",2025-05-18 07:33:25+00:00,0,0,0,0,0,1
+12065,Teamleitung (m/w/d/u) IT,Handwerkskammer Hannover,IT-Stellen,"Garbsen, Region Hannover (Kreis)",2025-05-18 19:45:01+00:00,0,0,0,0,0,1
+12066,Mitarbeiter IT-Service-Desk (m/w/d),DENIOS SE,IT-Stellen,"Bad Oeynhausen, Minden-Lübbecke (Kreis)",2025-05-18 19:41:45+00:00,0,0,0,0,0,1
+12067,Java und/oder C++ Entwickler (m/w/d) für ÖPNV Software,IVU Traffic Technologies AG,IT-Stellen,"Aachen, Aachen (Kreis)",2025-05-18 19:41:48+00:00,0,0,0,0,0,1
+12068,IT-Administrator in mit Schwerpunkt Netzwerktechnik,Pfennigparade SIGMETA GmbH,IT-Stellen,"Milbertshofen-Am Hart, München",2025-05-18 13:08:33+00:00,0,0,0,0,0,1
+12069,Gruppenleitung (m/w/d) Softwareentwicklung Industrial Engineering,Endress+Hauser Conducta GmbH+Co. KG,IT-Stellen,"Waldheim, Offenbach am Main",2025-05-18 07:32:44+00:00,0,0,0,0,0,1
+12070,Senior Software Engineer UI/UX (d/w/m),Leica Microsystems,IT-Stellen,"Heuchelheim, Gießen (Kreis)",2025-05-18 11:53:58+00:00,0,0,0,0,0,1
+12071,Key User ERP für Microsoft Dynamics NAV (m/w/d),Shofu Dental GmbH,IT-Stellen,"Hubbelrath, Düsseldorf",2025-05-18 14:10:51+00:00,0,0,0,0,0,1
+12072,Informatikerin / Informatiker (w/m/d) Schwerpunkt Netzwerktechnik,Polizeipräsidium Frankfurt am Main,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-18 19:41:46+00:00,0,0,0,0,0,1
+12073,Data Governance Manager (w/m/d) (Digitization System Operation),50Hertz Transmission GmbH,IT-Stellen,"Mitte, Berlin",2025-05-18 19:45:17+00:00,0,0,0,0,0,1
+12074,Dualer Student (m/w/d) Wirtschaftsinformatik – ab September 2025,Diehl Defence GmbH & Co. KG,IT-Stellen,Deutschland,2025-05-18 19:39:45+00:00,0,0,0,0,0,1
+12075,Werkstudent (w/m/d) Softwareentwicklung mit Java-Kenntnissen,Süddeutsche Krankenversicherung a.G.,IT-Stellen,"Fellbach, Rems-Murr-Kreis",2025-05-18 19:41:47+00:00,0,0,0,0,0,1
+12076,(Senior) Microsoft 365 Power Platform Developer (w/m/d),FIEGE Logistik Stiftung & Co. KG,IT-Stellen,Deutschland,2025-05-18 19:45:05+00:00,0,0,0,0,0,1
+12077,Senior C# Entwickler/in (m/w/d) – WinForms & SQL Datenbanken,comLogis computed Logistics GmbH,IT-Stellen,"Brake, Bielefeld",2025-05-18 19:41:24+00:00,0,0,0,0,0,1
+12078,IT-Systemadministrator Linux / Microsoft (m/w/d),MDCC Magdeburg-City-Com GmbH,IT-Stellen,"Magdeburg, Sachsen-Anhalt",2025-05-18 19:35:03+00:00,0,0,0,0,0,1
+12079,IT-Mitarbeiter (w/m/d) für das Fachressort Zentrale Infrastruktur (Fachinformatiker (w/m/d)),Gesundheitsholding Lüneburg GmbH,IT-Stellen,"Lüneburg, Lüneburg (Kreis)",2025-05-18 07:10:21+00:00,0,0,0,0,0,1
+12080,Security Support / Werkschutzfachkraft (m/w/d),Lufthansa Group Security Operations,IT-Stellen,"Freising, Freising (Kreis)",2025-05-18 18:04:29+00:00,0,0,0,0,0,1
+12081,Senior Project Manager / Senior Scrum Master (M/W/D),VMRay GmbH,IT-Stellen,"Bochum, Nordrhein-Westfalen",2025-05-18 19:42:35+00:00,0,0,0,0,0,1
+12082,Elektroniker / Elektrotechnikermeister (m/w/d),Snackmaster Produktion GmbH & Co. KG,IT-Stellen,Deutschland,2025-05-18 06:04:54+00:00,0,0,0,0,0,1
+12083,Kotlin Software-Entwickler (m/w/d),Sonic Healthcare Germany GmbH & Co. KG,IT-Stellen,"Hamburg, Deutschland",2025-05-18 19:45:08+00:00,0,0,0,0,0,1
+12084,HR-Administrator / HR-Sachbearbeitung (m/w/d),Lagardère Travel Retail Deutschland GmbH,IT-Stellen,"Wiesbaden, Wiesbaden (Kreis)",2025-05-18 14:05:11+00:00,0,0,0,0,0,1
+12085,IT-Mitarbeiter im 1st Level Support / Ticketdispatcher (m/w/d),Evangelische Dienste Duisburg gGmbH,IT-Stellen,"Altstadt, Duisburg",2025-05-18 14:10:51+00:00,0,0,0,0,0,1
+12086,Informatiker / IT-Fachkraft (w/m/d),IHK - Niederrheinische IHK Duisburg-Wesel-Kleve zu Duisburg,IT-Stellen,"Eschborn, Main-Taunus-Kreis",2025-05-18 19:35:16+00:00,0,0,0,0,0,1
+12087,Tech & Security Consultant DMS-Plattform (w/m/d),E.ON Digital Technology GmbH,IT-Stellen,"Essen, Nordrhein-Westfalen",2025-05-18 19:34:42+00:00,0,0,0,0,0,1
+12088,Senior Software Engineer (m/w/d) Interfaces,BIOTRONIK SE & Co. KG,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:34:58+00:00,0,0,0,0,0,1
+12089,Pflichtpraktikum | Lean Management & Technisches Projektmanagement Wintersemester 2025/26 | ab September 2025,Hansgrohe SE,IT-Stellen,"Schiltach, Rottweil (Kreis)",2025-05-18 01:48:42+00:00,0,0,0,0,0,1
+12090,(Senior) Software Consultant (m/w/d),HPM Service und Verwaltung,IT-Stellen,Deutschland,2025-05-18 21:33:15+00:00,0,0,0,0,0,1
+12091,Technische Mitarbeiter (m/w/d) (Informatiker / Ingenieure [m/w/d] – Bachelor [FH] oder Fachinformatiker / IT-Systemelektroniker [m/w/d]),Bayerisches Landeskriminalamt,IT-Stellen,"Königsbrunn, Augsburg (Kreis)",2025-05-18 19:34:46+00:00,0,0,0,0,0,1
+12092,Werkstudent Lizenz- und Vertragsmanagement (m/w/d),netgo group,IT-Stellen,Deutschland,2025-05-18 22:04:21+00:00,0,0,0,0,0,1
+12093,Backend Developer (m/w/d),Elmer Dienstleistungs & Co. KG,IT-Stellen,"Beltinghoven, Mönchengladbach",2025-05-18 22:05:10+00:00,0,0,0,0,0,1
+12094,IT Architekt (W/M/D) Active Directory,HZD Hessische Zentrale für Datenverarbeitung,IT-Stellen,"Wiesbaden, Wiesbaden (Kreis)",2025-05-18 19:35:25+00:00,0,0,0,0,0,1
+12095,Abschlussarbeit - Effiziente Speicherung und Indexierung von JSON-Daten (Data Science),wenglor sensoric gmbH,IT-Stellen,"Tettnang, Bodenseekreis",2025-05-18 06:05:37+00:00,0,0,0,0,0,1
+12096,Informationssicherheits-Manager (w/m/div.),Bosch Gruppe,IT-Stellen,"München, München (Kreis)",2025-05-18 07:43:31+00:00,0,0,0,0,0,1
+12097,IT-Architekt*in,Stadt Karlsruhe,IT-Stellen,"Karlsruhe, Karlsruhe (Kreis)",2025-05-18 19:35:10+00:00,0,0,0,0,0,1
+12098,Stylist Still (w/m/d),ORENDT STUDIOS Gruppe,IT-Stellen,Deutschland,2025-05-18 21:37:14+00:00,0,0,0,0,0,1
+12099,Techniker Anlagenqualifizierung Pharma (m/w/d),OPTIMA pharma containment GmbH,IT-Stellen,"Radolfzell am Bodensee, Konstanz (Kreis)",2025-05-18 08:51:57+00:00,0,0,0,0,0,1
+12100,Optronic System Engineer (d/f/m),E Airbus Defence and Space GmbH Careers,IT-Stellen,"Manching, Pfaffenhofen an der Ilm (Kreis)",2025-05-18 13:55:13+00:00,0,0,0,0,0,1
+12101,Mitarbeiter DMS-Anwendungsbetreuung (m/w/d),Rostocker Straßenbahn AG ,IT-Stellen,"Rostock, Mecklenburg-Vorpommern",2025-05-18 19:34:43+00:00,0,0,0,0,0,1
+12102,Releasemanager / Testmanager - Specialist Release- and Testmanagement (m/w/d),Deutsche Pfandbriefbank AG,IT-Stellen,"Garching bei München, München (Kreis)",2025-05-18 19:41:34+00:00,0,0,0,0,0,1
+12103,IT-Fachkraft (m/w/d) Field Engineer,Brandenburgischer IT-Dienstleister,IT-Stellen,"Frankfurt am Main, Hessen",2025-05-18 19:45:36+00:00,0,0,0,0,0,1
+12104,(Senior) System Engineer (m/w/d),netgo group,IT-Stellen,Deutschland,2025-05-18 22:02:00+00:00,0,0,0,0,0,1
+12105,Senior Professional System-Engineer (w/m/d),IT-Systemhaus der Bundesagentur für Arbeit,IT-Stellen,"Nürnberg, Bayern",2025-05-18 19:35:01+00:00,0,0,0,0,0,1
+12106,Initiativbewerbung,IANUS Simulation,IT-Stellen,Deutschland,2025-05-18 21:40:16+00:00,0,0,0,0,0,1
+12107,Software Engineer - Android Automotive OS (w/m/d),MAN Truck & Bus Group,IT-Stellen,"München, München (Kreis)",2025-05-18 19:41:26+00:00,0,0,0,0,0,1
+12108,Referent Kfz-Technik / Mobility (w/m/d),Gesamtverband der Deutschen Versicherungswirtschaft e.V.,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:34:54+00:00,0,0,0,0,0,1
+12109,IT-Anwendungsbetreuer (m/w/d) Instandhaltung,SWU Stadtwerke Ulm/Neu-Ulm GmbH,IT-Stellen,"Mitte, Ulm",2025-05-18 13:08:32+00:00,0,0,0,0,0,1
+12110,Werkstudent (m/w/d) - Controlling,Controlware,IT-Stellen,"Dietzenbach, Offenbach (Kreis)",2025-05-18 22:04:41+00:00,0,0,0,0,0,1
+12111,Assistenz (m/w/d) im Bereich Produktmanagement Medical in Teilzeit,medi GmbH & Co. KG,IT-Stellen,"Bayreuth, Bayreuth (Kreis)",2025-05-18 14:05:15+00:00,0,0,0,0,0,1
+12112,IT-Systems Engineer und Projektmanager (m/w/d) - hybrides Arbeiten (Remote & Präsenz),DIS AG,IT-Stellen,"Troisdorf, Rhein-Sieg-Kreis",2025-05-18 19:45:33+00:00,0,0,0,0,0,1
+12113,Kaufmännischer Sachbearbeiter (m/w/d),ShaarConsulting,IT-Stellen,"Berlin, Deutschland",2025-05-18 04:45:23+00:00,0,0,0,0,0,1
+12114,Fullstack Engineer - RegTech,N26 GmbH,IT-Stellen,"Berlin, Deutschland",2025-05-18 07:32:00+00:00,0,0,0,0,0,1
+12115,Inhouse Consultant Microsoft 365 (m/w/d),apetito AG,IT-Stellen,"Rheine, Steinfurt (Kreis)",2025-05-18 19:34:49+00:00,0,0,0,0,0,1
+12116,Microsoft Administrator - IT Beratung / Kundenservice / Systemadministration (m/w/d),MEKO-S GmbH,IT-Stellen,"Bremen, Deutschland",2025-05-18 07:32:23+00:00,0,0,0,0,0,1
+12117,Integration Engineer Kamerasysteme (m/w/d),OPTIMA pharma GmbH,IT-Stellen,"Schwäbisch Hall, Schwäbisch Hall (Kreis)",2025-05-18 19:34:43+00:00,0,0,0,0,0,1
+12118,SPS-Software Engineer (m/w/d) im Maschinenbau,Glaston Germany GmbH,IT-Stellen,Deutschland,2025-05-18 19:41:38+00:00,0,0,0,0,0,1
+12119,OT Security Architect (m/f/d) - Remote Work Available,dormakaba Deutschland GmbH,IT-Stellen,"Ennepetal, Ennepe-Ruhr-Kreis",2025-05-18 19:35:31+00:00,0,0,0,0,0,1
+12120,Auszubildende zum Fachinformatiker (m/w/d) Fachrichtung Daten & Prozessanalyse für 2025,Funk - Internationaler Versicherungsmakler und Risk Consultant,IT-Stellen,"Hamburg, Deutschland",2025-05-18 19:41:41+00:00,0,0,0,0,0,1
+12121,Hardwareentwickler: in (all genders) - Messtechnik - Sachsen,munerio consulting GmbH,IT-Stellen,"Kamenz, Bautzen (Kreis)",2025-05-18 07:33:39+00:00,0,0,0,0,0,1
+12122,Configuration Specialist x86 – Internal Sales (m/w/d),SVA System Vertrieb Alexander GmbH,IT-Stellen,Deutschland,2025-05-18 19:35:20+00:00,0,0,0,0,0,1
+12123,Anwendungsentwickler / Software Engineer (m/w/d) für IT-Projekte,Wyker Dampfschiffs-Reederei Föhr-Amrum GmbH,IT-Stellen,Deutschland,2025-05-18 19:41:24+00:00,0,0,0,0,0,1
+12124,Inhouse Consultant SAP SD (m/w/d),Unternehmensgruppe Theo Müller GmbH & Co. KG,IT-Stellen,"Fischach, Augsburg (Kreis)",2025-05-18 19:35:16+00:00,0,0,0,0,0,1
+12125,Praktikum in der Softwareentwicklung mit Microsoft-Tools (m/w/x),ZEISS,IT-Stellen,"Aalen, Ostalbkreis",2025-05-18 19:35:23+00:00,0,0,0,0,0,1
+12126,IT-Security Administrator (m/w/d) - hybrides Arbeiten (Remote & Präsenz),DIS AG,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-18 19:35:16+00:00,0,0,0,0,0,1
+12127,System-Manager*in (Planer*in) (m/w/d) für Linux und Spezialapplikationen,IT-Dienstleistungszentrum Berlin ,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:35:00+00:00,0,0,0,0,0,1
+12128,IT System Engineer Storage & Computing (m/w/d),VARTA Microbattery GmbH,IT-Stellen,"Ellwangen (Jagst), Ostalbkreis",2025-05-18 19:35:33+00:00,0,0,0,0,0,1
+12129,SAP Anwendungsbetreuer/in - Finanzen (m/w/d),Vivantes Netzwerk für Gesundheit GmbH,IT-Stellen,"Reinickendorf, Berlin",2025-05-18 19:39:50+00:00,0,0,0,0,0,1
+12130,SAP Inhouse Consultant (w/m/d),MAGURA Bosch Parts & Services GmbH & Co. KG,IT-Stellen,"Nürtingen, Esslingen (Kreis)",2025-05-18 14:10:51+00:00,0,0,0,0,0,1
+12131,Datenschutzbeauftragten (m/w/d),Lars Bozenhardt e.K. econoMED-Systemgruppe,IT-Stellen,"Stuttgart, Baden-Württemberg",2025-05-18 19:41:44+00:00,0,0,0,0,0,1
+12132,Hardwareentwickler Leistungselektronik (m/w/d),WAGO Electronics GmbH,IT-Stellen,"Erwitte, Soest (Kreis)",2025-05-18 07:44:26+00:00,0,0,0,0,0,1
+12133,Cloud-Security Analyst (m/w/d),Flughafen Düsseldorf GmbH,IT-Stellen,"Düsseldorf, Nordrhein-Westfalen",2025-05-18 18:04:34+00:00,0,0,0,0,0,1
+12134,IT Demand Consultant (all genders),DATAGROUP,IT-Stellen,"Neu-Isenburg, Offenbach (Kreis)",2025-05-18 19:41:29+00:00,0,0,0,0,0,1
+12135,FOSS & Software Compliance Expert (m/w/x),ZEISS,IT-Stellen,"Braunschweig, Niedersachsen",2025-05-18 19:35:11+00:00,0,0,0,0,0,1
+12136,Information Security Officer*,Gothaer Konzern,IT-Stellen,"Köln, Nordrhein-Westfalen",2025-05-18 19:34:53+00:00,0,0,0,0,0,1
+12137,Senior Application Engineer SAP HCM Time Management (f/m/d),E.ON Digital Technology GmbH,IT-Stellen,"Essen, Nordrhein-Westfalen",2025-05-18 19:41:48+00:00,0,0,0,0,0,1
+12138,Mechatroniker / Elektroniker / Elektriker (m/w/d),Leadec Management Central Europe BV & Co. KG,IT-Stellen,Deutschland,2025-05-18 22:09:13+00:00,0,0,0,0,0,1
+12139,Testmanager / Software Tester (m/w/d),TRUUCO,IT-Stellen,Deutschland,2025-05-18 22:05:26+00:00,0,0,0,0,0,1
+12140,IT-Consultant (w/m/d) in der Wirtschaftsprüfung in Berlin,Becker Büttner Held Rechtsanwälte Wirtschaftsprüfer Steuerberater PartGmbB,IT-Stellen,"Berlin, Deutschland",2025-05-18 19:33:17+00:00,0,0,0,0,0,1
