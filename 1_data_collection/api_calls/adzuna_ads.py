@@ -73,10 +73,10 @@ def fetch_jobs_by_category(category_tag):
     return all_jobs
 
 
-def extract_job_data(job):
+def extract_job_data(job): #job is a dictionary
     """Extract relevant details from a job listing."""
     return {
-        "title": job.get("title"),
+        "title": job.get("title"), #get only works with dictionaries
         "company": job.get("company", {}).get("display_name", "N/A"),
         "category": job.get("category", {}).get("label", "N/A"),
         "location": job.get("location", {}).get("display_name", "N/A"),
@@ -94,7 +94,8 @@ jobs = fetch_jobs_by_category(CATEGORY_TAG)
 extracted_jobs = [extract_job_data(job) for job in jobs]
 
 # Output file name
-output_filename = "1_data_collection/api_output_files/adzuna_ads.csv"
+output_filename = "../api_output_files/adzuna_ads_may.csv"
+#output_filename = "1_data_collection/api_output_files/adzuna_ads.csv"
 
 # Save to CSV file
 with open(output_filename, mode="w", newline="", encoding="utf-8") as file:

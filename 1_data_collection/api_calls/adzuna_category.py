@@ -19,7 +19,7 @@ def get_all_labels():
     response = requests.get(API_URL, params=params)
     return response.json() if response.status_code == 200 else {}
 
-all_labels = get_all_labels()
+all_labels = get_all_labels() #dictionary
 
 # Convert to DataFrame
 df = pd.DataFrame(all_labels.get("results", []))

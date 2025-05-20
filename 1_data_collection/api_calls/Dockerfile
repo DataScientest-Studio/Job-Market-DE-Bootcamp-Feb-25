@@ -6,6 +6,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y cron && rm -rf /var/lib/apt/lists/*
 
 # Copy application files
+COPY .env . 
 COPY adzuna_ads_yesterday.py .
 COPY requirements.txt .
 COPY crontab /etc/cron.d/adzuna-cron
