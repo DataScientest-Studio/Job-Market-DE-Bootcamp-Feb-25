@@ -1,4 +1,5 @@
-0 10 * * * python3 /app/adzuna_ads_yesterday.py >> /app/adzuna_cron.log 2>&1
+TZ=Europe/Berlin
+0 10 * * * python /app/adzuna_ads_yesterday.py >> /app/adzuna_cron.log 2>&1
 
 
 

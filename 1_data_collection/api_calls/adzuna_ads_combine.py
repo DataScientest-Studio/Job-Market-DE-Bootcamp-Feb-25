@@ -9,7 +9,8 @@ base_path = os.path.join(script_dir, "..", "api_output_files")
 yesterday_path = os.path.join(base_path, "yesterdays_ads_files")
 daily_files_pattern = os.path.join(yesterday_path, "adzuna_ads_*.csv")
 main_csv_path = os.path.join(base_path, "adzuna_ads.csv")
-output_path = os.path.join("adzuna_ads_all.csv")
+may_file_path = os.path.join(base_path, "adzuna_ads_may.csv")  # <--- New file
+output_path = os.path.join(base_path, "adzuna_ads_all.csv")    # <--- Full path corrected
 
 # Collect daily CSVs
 daily_files = glob(daily_files_pattern)
@@ -17,6 +18,14 @@ print(f"Found {len(daily_files)} daily files.")
 
 # Read daily CSVs
 daily_dfs = [pd.read_csv(f) for f in daily_files]
+
+# Add May file if it exists
+if os.path.exists(may_file_path):
+    may_df = pd.read_csv(may_file_path)
+    print("adzuna_ads_may.csv found and loaded.")
+    daily_dfs.append(may_df)
+else:
+    print("adzuna_ads_may.csv not found.")
 
 # Read main adzuna_ads.csv if it exists
 if os.path.exists(main_csv_path):
@@ -33,8 +42,9 @@ else:
 all_dfs = [main_df] + daily_dfs if daily_dfs else [main_df]
 final_df = pd.concat(all_dfs, ignore_index=True).drop_duplicates()
 
+# Ensure output folder exists
 os.makedirs(base_path, exist_ok=True)
 
 # Save combined result
-final_df.to_csv(os.path.join(base_path, output_path), index=False)
+final_df.to_csv(output_path, index=False)
 print(f"Saved combined data to: {output_path} ({len(final_df)} rows)")

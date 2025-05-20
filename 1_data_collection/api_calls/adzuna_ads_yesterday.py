@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from datetime import datetime, timedelta
 import random
 from pathlib import Path
+
 # Load API credentials
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
